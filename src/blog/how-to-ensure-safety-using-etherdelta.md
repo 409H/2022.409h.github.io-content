@@ -8,7 +8,7 @@ comments: true
 Recently EtherDeltas' DNS was compromised which meant when you went to etherdelta.com it didn't resolve to a server they
 controlled.
 
-![images/how-to-ensure-safety-using-etherdelta/tweet001.PNG](images/how-to-ensure-safety-using-etherdelta/tweet001.PNG)
+![images/how-to-ensure-safety-using-etherdelta/tweet001.png](images/how-to-ensure-safety-using-etherdelta/tweet001.png)
 
 The attack was sophisticated because people believed they were on etherdelta.com so they were comfortable using it the
 way that they've previously used it. This caused to a big theft as the source was modified to drain users wallets if they
@@ -70,7 +70,7 @@ Now flush your local dns and everything is setup.
 * Open `cmd` on Windows
 * Run `ipconfig /flushdns`
 
-![images/how-to-ensure-safety-using-etherdelta/etherdeltalocal.PNG](images/how-to-ensure-safety-using-etherdelta/etherdeltalocal.PNG)
+![images/how-to-ensure-safety-using-etherdelta/etherdeltalocal.png](images/how-to-ensure-safety-using-etherdelta/etherdeltalocal.png)
 
 Running it locally means you won't get any automatic updates that are pushed to production (etherdelta.com) automatically
 unless you re-download/reset the branch to `origin/master`, so it's best to [follow @etherdelta on Twitter](https://twitter.com/etherdelta) to
