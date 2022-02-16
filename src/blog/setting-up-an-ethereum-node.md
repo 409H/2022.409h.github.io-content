@@ -1,5 +1,5 @@
 ---
-slug: /setting-up-an-ethereum-node/
+slug: "setting-up-an-ethereum-node"
 title: "Setting up an Ethereum node"
 date: 2017-06-08 22:12:34 +0100
 comments: true
