@@ -1,0 +1,32 @@
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" height="210" width="500">
+    <style>
+        <style>
+            /* <![CDATA[ */
+            svg {
+                display: block;
+                margin: auto auto;
+            }
+            svg #base_left, svg #bottom_left {
+                fill: #57618F;
+            }
+            svg #base_right, svg #bottom_right {
+                fill: #515b85;
+            }
+            svg #base_bottom_left {
+                fill: #495279;
+            }
+            svg #base_bottom_right {
+                fill: #444b6f;
+            }
+            /* ]]> */
+        </style>
+    </style>
+    <polygon points="50,10 0,110 50,130 100,110" id="base_left"/>
+    <polygon points="50,10 50,130 50,130 100,110" id="base_right"/>
+    <polygon points="50,130 0,110 50,70 100,110" id="base_bottom_left"/>
+    <polygon points="50,130 50,110 50,70 100,110" id="base_bottom_right"/>
+
+    <polygon points="50,170 0,120 50,140 100,120" id="bottom_left"/>
+    <polygon points="50,170 50,120 50,140 100,120" id="bottom_right"/>
+</svg>
