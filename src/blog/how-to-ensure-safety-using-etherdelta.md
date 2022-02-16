@@ -3,7 +3,6 @@ slug: /how-to-ensure-safety-using-etherdelta/
 title: "How to ensure safety using EtherDelta"
 date: 2017-12-24 13:00:00 +0100
 comments: true
-comments: true
 ---
 
 Recently EtherDeltas' DNS was compromised which meant when you went to etherdelta.com it didn't resolve to a server they
