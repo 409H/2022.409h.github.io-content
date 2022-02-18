@@ -1,4 +1,25 @@
 [{
+    "publishDate": "2020-04-18",
+    "permalink": "https://www.express.co.uk/life-style/science-technology/1270340/Google-Chrome-warning-extensions-danger",
+    "title": "Google Chrome users who've downloaded these extensions are in serious danger"
+},
+{
+    "publishDate": "2019-08-14",
+    "permalink": "https://micky.com.au/blue-tick-ingenious-new-trick-as-crypto-twitter-scams-double/",
+    "title": "BLUE TICK: Ingenious new trick as crypto Twitter scams double"
+},{
+    "publishDate": "Google Takes Down Malicious Chrome Extensions that Steal Cryptocurrency Wallet Credentials",
+    "permalink": "https://beincrypto.com/google-takes-down-malicious-chrome-extensions-that-steal-cryptocurrency-wallet-credentials/",
+    "title": "2020-04-16"
+},{
+    "publishDate": "2020-03-05",
+    "permalink": "https://www.zdnet.com/article/malicious-chrome-extension-caught-stealing-ledger-wallet-recovery-seeds/",
+    "title": "Malicious Chrome extension caught stealing Ledger wallet recovery seeds"
+},{
+    "publishDate": "2020-04-01",
+    "permalink": "https://nakedsecurity.sophos.com/2020/04/01/qr-code-generator-scam-steals-thousands-in-bitcoin/",
+    "title": "QR code generator scam steals thousands in Bitcoin"
+},{
     "publishDate": "2020-03-29",
     "permalink": "https://cointelegraph.com/news/fake-ledger-chrome-extensions-continue-to-steal-crypto-from-victims",
     "title": "Fake Ledger Chrome Extensions Continue to Steal Crypto From Victims"
@@ -167,9 +188,3 @@
     "permalink": "https://www.nytimes.com/2017/10/27/technology/how-floyd-mayweather-helped-two-young-guys-from-miami-get-rich.html",
     "title": "How Floyd Mayweather Helped Two Young Guys From Miami Get Rich"
 }]
-
-{
-    "publishDate": "",
-    "permalink": "",
-    "title": ""
-},
