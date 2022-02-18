@@ -1,10 +1,138 @@
 [{
+    "publishDate": "2020-03-29",
+    "permalink": "https://cointelegraph.com/news/fake-ledger-chrome-extensions-continue-to-steal-crypto-from-victims",
+    "title": "Fake Ledger Chrome Extensions Continue to Steal Crypto From Victims"
+},{
+    "publishDate": "2021-09-06",
+    "permalink": "https://www.entrepreneur.com/article/383866",
+    "title": "Crypto Scams: How To Recover Assets When It’s Not Too Late"
+},{
+    "publishDate": "2020-05-08",
+    "permalink": "https://nakedsecurity.sophos.com/2020/05/08/more-crypto-stealing-chrome-extensions-swatted-by-google/",
+    "title": "More crypto-stealing Chrome extensions swatted by Google"
+},{
+    "publishDate": "2021-05-03",
+    "permalink": "https://decrypt.co/69740/a-crypto-phishing-bot-is-targeting-metamask-seed-phrases",
+    "title": "A Crypto Phishing Bot is Targeting MetaMask Seed Phrases"
+},{
+    "publishDate": "Social media activity exposes many users to cyber threats – report",
+    "permalink": "https://www.insurancebusinessmag.com/uk/news/cyber/social-media-activity-exposes-many-users-to-cyber-threats--report-245416.aspx",
+    "title": "2021-02-03"
+},{
+    "publishDate": "2020-05-16",
+    "permalink": "https://www.coindesk.com/markets/2020/04/16/mystery-hacker-tries-to-steal-crypto-through-fake-google-chrome-wallet-extensions/",
+    "title": "Mystery Hacker Tries to Steal Crypto Through Fake Google Chrome Wallet Extensions"
+},{
+    "publishDate": "2021-08-05",
+    "permalink": "https://www.nytimes.com/2021/08/05/business/hype-coins-cryptocurrency.html",
+    "title": "Going for Broke in Cryptoland"
+},{
+    "publishDate": "2021-03-10",
+    "permalink": "https://cryptocoin.news/news/scams/malware-alert-beware-of-sushiswap-impostors-53473/",
+    "title": "Malware Alert: Beware Of SushiSwap Impostors"
+},{
+    "publishDate": "2021-02-02",
+    "permalink": "https://www.tessian.com/research/how-to-hack-a-human/",
+    "title": "How to hack a human: Social Media, Social Engineering, and Business Email Compromise"
+},{
+    "publishDate": "2021-01-22",
+    "permalink": "https://medium.com/mycrypto/2020-in-review-major-blockchain-crypto-security-incidents-6c5ced8dc81e",
+    "title": "2020 In Review: Major Blockchain/Crypto Security Incidents"
+},{
+    "publishDate": "2020-09-17",
+    "permalink": "https://www.theblockcrypto.com/news+/78020/crypto-google-ad-scams",
+    "title": "Google ad scammers are plaguing crypto firms — and some say Google should be doing more to help"
+},{
+    "publishDate": "2020-07-26",
+    "permalink": "https://cryptopotato.com/binance-and-helping-harry-return-stolen-crypto-worth-10k-to-victim/",
+    "title": "Binance and Helping Harry Return Stolen Crypto Worth $10K to Victim"
+},{
+    "publishDate": "2020-08-11",
+    "permalink": "https://medium.com/opyn/opyn-eth-put-exploit-post-mortem-1a009e3347a8",
+    "title": "Opyn ETH Put Exploit Post Mortem"
+},{
+    "publishDate": "2020-03-27",
+    "permalink": "https://www.zdnet.com/article/network-of-fake-qr-code-generators-will-steal-your-bitcoin/",
+    "title": "Network of fake QR code generators will steal your Bitcoin"
+},{
+    "publishDate": "2020-07-24",
+    "permalink": "https://decrypt.co/36603/white-hat-hacker-rescues-7500-of-stolen-ethereum",
+    "title": "White hat hacker rescues $7,500 of stolen Ethereum"
+},{
+    "publishDate": "2020-07-02",
+    "permalink": "https://beincrypto.com/expert-recovers-4k-from-shoddy-crypto-phishing-scam/",
+    "title": "Expert Recovers $4K From Shoddy Crypto Phishing Scam"
+},{
+    "publishDate": "2020-06-25",
+    "permalink": "https://decrypt.co/33473/google-chrome-store-was-told-about-fake-bitcoin-apps-before-113000-theft",
+    "title": "Google Chrome Store was told about fake Bitcoin apps before $113,000 theft"
+},{
+    "publishDate": "2020-06-08",
+    "permalink": "https://www.coindesk.com/business/2020/06/08/brave-browsers-affiliate-link-controversy-explained/",
+    "title": "Brave Browser's Affiliate Link Controversy, Explained"
+},{
+    "publishDate": "2020-05-08",
+    "permalink": "https://www.theblockcrypto.com/linked/64591/google-takes-down-22-more-extensions-that-were-impersonating-popular-crypto-wallets",
+    "title": "Google takes down 22 more extensions that were impersonating popular crypto wallets"
+},{
+    "publishDate": "2020-04-14",
+    "permalink": "https://www.zdnet.com/article/exclusive-google-removes-49-chrome-extensions-caught-stealing-crypto-wallet-keys/",
+    "title": "Exclusive: Google removes 49 Chrome extensions caught stealing crypto-wallet keys"
+},{
+    "publishDate": "2020-04-15",
+    "permalink": "https://thehackernews.com/2020/04/chrome-cryptocurrency-extensions.html",
+    "title": "49 New Google Chrome Extensions Caught Hijacking Cryptocurrency Wallets"
+},{
+    "publishDate": "2020-04-15",
+    "permalink": "https://cointelegraph.com/news/google-removes-49-phishing-extensions-that-steal-cryptocurrency-data",
+    "title": "Google Removes 49 Phishing Extensions That Steal Cryptocurrency Data"
+},{
+    "publishDate": "2020-03-29",
+    "permalink": "https://cointelegraph.com/news/network-of-fake-bitcoin-qr-code-generators-stole-45-000-in-march",
+    "title": "Network of Fake Bitcoin QR Code Generators Stole $45,000 in March"
+},{
+    "publishDate": "2019-11-25",
+    "permalink": "https://medium.com/quiknode/dapp-key-management-ux-and-security-2e607bb54fa8",
+    "title": "Key Management: UX and Security"
+},{
+    "publishDate": "2019-11-21",
+    "permalink": "https://decrypt.co/11870/new-report-most-crypto-scam-victims-are-in-indonesia-nigeria-the-us-and-vietnam",
+    "title": "New report: Most crypto scam victims are in Indonesia, Nigeria, the US, and Vietnam"
+},{
+    "publishDate": "2019-12-31",
+    "permalink": "https://cointelegraph.com/news/chrome-browser-extension-ethereum-wallet-injects-malicious-javascript-to-steal-data",
+    "title": "Chrome Browser Extension Ethereum Wallet Injects Malicious JavaScript To Steal Data"
+},{
+    "publishDate": "2019-08-13",
+    "permalink": "https://decrypt.co/8358/bitcoins-price-rise-linked-to-proliferation-of-twitter-scams",
+    "title": "The Bitcoin bull is causing a spike in Twitter scams"
+},{
+    "publishDate": "2019-05-27",
+    "permalink": "https://www.coindesk.com/markets/2019/05/27/researcher-discovers-serious-vulnerability-in-paper-crypto-wallet-site/",
+    "title": "Researcher Discovers Serious Vulnerability in Paper Crypto Wallet Site"
+},{
+    "publishDate": "2019-05-27",
+    "permalink": "https://cointelegraph.com/news/computer-researcher-finds-wallet-vulnerability-that-gave-same-key-to-multiple-users",
+    "title": "Computer Researcher Finds Wallet Vulnerability That Gave Same Key to Multiple Users"
+},{
+    "publishDate": "2019-05-24",
+    "permalink": "https://decrypt.co/7173/popular-paper-wallet-app-falls-prey-to-mysterious-vulnerability",
+    "title": "Popular paper wallet app falls prey to mysterious vulnerability"
+},{
+    "publishDate": "2019-05-24",
+    "permalink": "https://www.theblockcrypto.com/linked/24772/potentially-malicious-vulnerability-found-on-walletgenerator-net",
+    "title": "Potentially malicious vulnerability found on WalletGenerator.net"
+},{
+    "publishDate": "2019-06-03",
+    "permalink": "https://www.coindesk.com/markets/2019/06/03/security-researcher-tears-up-a-binance-scam-site-to-find-the-hackers/",
+    "title": "Security Researcher Tears Up a Binance Scam Site to Find the Hackers"
+},{
     "publishDate": "2019-05-25",
     "permalink": "https://arstechnica.com/information-technology/2019/05/website-for-storing-digital-currencies-hosted-code-with-a-sneaky-backdoor/",
     "title": "Website for storing digital currencies hosted code with a sneaky backdoor"
 },{
     "publishDate": "2019-04-01",
-    "permaLink": "https://bitcoinexchangeguide.com/kyc-data-could-be-exposed-to-malicious-attackers-with-poorly-secured-web-designs/",
+    "permalink": "https://bitcoinexchangeguide.com/kyc-data-could-be-exposed-to-malicious-attackers-with-poorly-secured-web-designs/",
     "title": "KYC Could Be Exposed To Malicious Attackers With Poorly-Secured Web Designs"
 },{
     "publishDate": "2019-03-20",
@@ -23,10 +151,6 @@
     "permalink": "https://hakin9.org/using-phishing-tools-against-the-phishers-and-uncovering-a-massive-binance-phishing-campaign/",
     "title": "Using phishing tools against the phishers— and uncovering a massive Binance phishing campaign - by Harry Denley"
 },{
-    "publishDate": "2019-06-03",
-    "permalink": "https://www.coindesk.com/markets/2019/06/03/security-researcher-tears-up-a-binance-scam-site-to-find-the-hackers/",
-    "title": "Security Researcher Tears Up a Binance Scam Site to Find the Hackers"
-},{
     "publishDate": "2018-02-07",
     "permalink": "https://www.wired.com/story/classic-scam-steals-bitcoin-on-twitter/",
     "title": "A Classic Scam Finds New Life Stealing Bitcoin on Twitter"
@@ -43,3 +167,9 @@
     "permalink": "https://www.nytimes.com/2017/10/27/technology/how-floyd-mayweather-helped-two-young-guys-from-miami-get-rich.html",
     "title": "How Floyd Mayweather Helped Two Young Guys From Miami Get Rich"
 }]
+
+{
+    "publishDate": "",
+    "permalink": "",
+    "title": ""
+},
