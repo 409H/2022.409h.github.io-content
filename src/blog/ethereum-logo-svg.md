@@ -14,4 +14,9 @@ Ethereum, I decided to to make the Ethereum logo (not a 1:1 copy).
 
 I then put it into a mockup view of your wallet. Here it is below;
 
-[Try it on CodePen](codepen://https://codepen.io/409/pen/yXaQNe/)
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="yXaQNe" data-preview="true" data-editable="true" data-user="409" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/409/pen/yXaQNe">
+  Ethereum Wallet (SVG, SASS)</a> by Harry (<a href="https://codepen.io/409">@409</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
