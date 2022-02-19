@@ -28,7 +28,7 @@ With only a couple of seconds left, an (at the time) anonymous bidder came in an
 
 You can read my tweet thread about the auction from the $60M bid
 
-ttps://twitter.com/sniko_/status/1370027281075249159
+https://twitter.com/sniko_/status/1370027281075249159
 
 This is a historic moment for NFTs. A digital piece of art fetching ~$70M at auction with payment in [$ETH](https://www.coingecko.com/en/coins/ethereum). Some weeks later, it was said that Beeple sold all the $ETH that he received from the sale into USD.
 
