@@ -10,7 +10,7 @@ I built the frontend application for KCP, which was a service that users could d
 
 At it's peak, we had 1,150 unique addresses delegating their governance voting power to the project.
 
-![images/kyber-community-pool/delegators-per-week.png](images/kyber-community-pool/delegators-per-week.png)
+![images/kyber-community-pool/delegators-per-week.png](./images/kyber-community-pool/delegators-per-week.png)
 
 The project involved writing the frontend and deploying the [KCP smart contract](https://etherscan.io/address/0xff895dbc075379af849dfd8a5c42ba4e920b04a2#code).
 
