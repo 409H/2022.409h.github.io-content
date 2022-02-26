@@ -1,5 +1,5 @@
 ---
-slug: "how-to-ensure-safety-using-etherdelta"
+slug: "following-an-ethereum-phishing-scam-down-the-rabbit-hole"
 title: "Following an Ethereum phishing scam down the rabbit hole"
 date: 2018-07-16 00:00:00 +0100
 type: blog
