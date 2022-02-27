@@ -1,7 +1,7 @@
 ---
 slug: "changing-the-backend-of-my-website"
 title: "Changing the backend of my website"
-date: "2022-02-27 00:00:00 +0000"
+date: "2022-02-27 00:00:00 +0100"
 type: blog
 comments: true
 hidden: false
