@@ -14,11 +14,11 @@ Now, instead of one giant repository, new website is stored in two repositories.
 
 ### New shiny things!
 
-A number of new shiny things are here at the new launch and many more will come!3
+A number of new shiny things are here at the new launch and many more will come!
 
 #### Ethereum Wei Converter
 
-I have also published a tool that I built that helps me quickly calculate the cost of a specific type of transfer at any GWEI cost. It will show you the cost in USD at the current ETH price (price feed fetched from [CoinGecko](https://coingecko.com))
+I have published a tool that I built that helps me quickly calculate the cost of a specific type of transfer at any GWEI cost. It will show you the cost in USD at the current ETH price (price feed fetched from [CoinGecko](https://coingecko.com))
 
 ![/images/changing-the-tech-powering-my-website/2.png](./images/changing-the-tech-powering-my-website/2.png)
 
@@ -38,12 +38,8 @@ I created this component on a different project (soon to be released) and though
 
 Instead of relying on [GitHub pages to build and deploy a Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll), I am now managing the website in two repositories.
 
-When I push a new content file (blog post, project post, external link referencing my name/projects), on the push to the `master` branch, it send a webhook request to [Netlify](https://www.netlify.com/) to trigger a build of the Gatsby site.
+When I add new content file (blog post, project post, external link referencing my name/projects), on the push to the `master` branch, it sends a webhook request to [Netlify](https://www.netlify.com/) to trigger a build and deploy of the Gatsby site.
 
-### New content administation
+### New visuals and better mobile support
 
-I now have a repository holding _only_ the content and these content files are stored in directories;
-
-This is a much more cleaner way for me to manage my content as before I had everything in a flat directory called `posts/` and `posts/images/` with the [Jekyll](https://jekyllrb.com/) setup.
-
-I also make more use of [frontmatter](https://www.gatsbyjs.com/docs/how-to/routing/adding-markdown-pages/#frontmatter-for-metadata-in-markdown-files) in the content markdown files, which is consumed within the GraphQL server on the Gatsby side of things.
+Although subtle, my website has some new visuals and now better responsiveness/mobile support! 

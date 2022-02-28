@@ -3,7 +3,7 @@ slug: "you-need-to-stop-trusting-links"
 title: "You need to stop trusting links"
 date: 2018-08-03 00:00:00 +0100
 type: blog
-meta_img: ''
+meta_img: /images/you-need-to-stop-trusting-links/meta.png 
 comments: true
 hidden: false
 ---

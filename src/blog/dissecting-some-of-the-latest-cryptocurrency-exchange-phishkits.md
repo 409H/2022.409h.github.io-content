@@ -3,7 +3,7 @@ slug: "dissecting-some-of-the-latest-cryptocurrency-exchange-phishkits"
 title: "Dissecting some of the latest cryptocurrency exchange phishkits"
 date: 2018-08-09 00:00:00 +0100
 type: blog
-meta_img: ''
+meta_img: /images/dissecting-some-of-the-latest-cryptocurrency-exchange-phishkits/meta.png 
 comments: true
 hidden: false
 ---
