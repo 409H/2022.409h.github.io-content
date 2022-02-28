@@ -3,6 +3,7 @@ slug: "how-to-ensure-safety-using-etherdelta"
 title: "How to ensure safety using EtherDelta"
 date: 2017-12-24 13:00:00 +0100
 type: blog
+meta_img: ''
 comments: true
 hidden: false
 ---

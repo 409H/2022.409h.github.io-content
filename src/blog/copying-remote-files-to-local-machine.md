@@ -3,6 +3,7 @@ slug: "copying-remote-files-to-local-machine"
 title: "Copying remote files to local machine"
 date: "2014-06-21 16:06:46 +0100"
 type: blog
+meta_img: ''
 comments: true
 hidden: false
 ---

@@ -3,6 +3,7 @@ slug: "twitter-beeple69m-bot"
 title: "Twitter Bot: @Beeple69M"
 date: 2021-04-21 00:00:00 +0100
 type: blog
+meta_img: ''
 comments: true
 hidden: false
 ---

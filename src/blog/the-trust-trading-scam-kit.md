@@ -3,6 +3,7 @@ slug: "the-trust-trading-scam-kit"
 title: "The Trust Trading Scam Kit"
 date: "2018-12-11 00:00:00 +0100"
 type: blog
+meta_img: ''
 comments: true
 hidden: false
 ---
