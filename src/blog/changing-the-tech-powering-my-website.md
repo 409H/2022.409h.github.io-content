@@ -3,6 +3,7 @@ slug: "changing-the-tech-powering-my-website"
 title: "Changing the tech powering my website"
 date: "2022-02-27 00:00:00 +0100"
 type: blog
+meta_img: /images/changing-the-tech-powering-my-website/meta.png 
 comments: true
 hidden: false
 ---
