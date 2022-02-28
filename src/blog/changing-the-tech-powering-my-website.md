@@ -1,6 +1,6 @@
 ---
-slug: "changing-the-backend-of-my-website"
-title: "Changing the backend of my website"
+slug: "changing-the-tech-powering-my-website"
+title: "Changing the tech powering my website"
 date: "2022-02-27 00:00:00 +0100"
 type: blog
 comments: true
@@ -13,7 +13,25 @@ Now, instead of one giant repository, new website is stored in two repositories.
 
 ### New shiny things!
 
-With this new setup on Gatsby, I can now plugin (and build my own) React components for my website. I now have a (at current time of writing) basic [Wei Converter Calculator](/tools/wei-converter/) tool and in the footer and some basic Web3 integration (using [Web3Modal](https://github.com/Web3Modal/web3modal)) to help those who wish to donate to my research. Clicking on an amount will give a prompt to donate via a browser injected Web3 provider (such as MetaMask) or via your mobile wallet using [WalletConnect](https://walletconnect.com/).
+A number of new shiny things are here at the new launch and many more will come!3
+
+#### Ethereum Wei Converter
+
+I have also published a tool that I built that helps me quickly calculate the cost of a specific type of transfer at any GWEI cost. It will show you the cost in USD at the current ETH price (price feed fetched from [CoinGecko](https://coingecko.com))
+
+![/images/changing-the-tech-powering-my-website/2.png](./images/changing-the-tech-powering-my-website/2.png)
+
+#### Toggle Blogs
+
+As I am moving a lot of my content posted on third-party domains to here, the Blog section can become quite big. So, I've added a quick toggle to change the view from showing the 10 most recent blog entries to all of them.
+
+![/images/changing-the-tech-powering-my-website/1.gif](./images/changing-the-tech-powering-my-website/1.gif)
+
+#### Donate Component
+
+I created this component on a different project (soon to be released) and thought I may as well install it on my personal website - there's no harm in that 😅. At the footer of my website, you'll see a donation component that has 4 different tiers to donate. Clicking each will allow you to quickly donate to my efforts through WalletConnect (and thus all the supported mobile apps) and via your browser wallet (such as MetaMask). Once clicked, it will prompt your wallet to send the chosen amount of ETH to my address.
+
+![/images/changing-the-tech-powering-my-website/3.gif](./images/changing-the-tech-powering-my-website/3.gif)
 
 ### New deployment system!
 
@@ -24,16 +42,6 @@ When I push a new content file (blog post, project post, external link referenci
 ### New content administation
 
 I now have a repository holding _only_ the content and these content files are stored in directories;
-
-```
-| src/
-    | blog/
-        | images/
-            | changing-the-backend-of-my-website/
-        | changing-the-backend-of-my-website.md
-    | external/
-    | projects/
-```
 
 This is a much more cleaner way for me to manage my content as before I had everything in a flat directory called `posts/` and `posts/images/` with the [Jekyll](https://jekyllrb.com/) setup.
 
