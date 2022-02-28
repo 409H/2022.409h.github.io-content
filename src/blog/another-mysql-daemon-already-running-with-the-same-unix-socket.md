@@ -3,7 +3,7 @@ slug: "another-mysql-daemon-already-running-with-the-same-unix-socket"
 title: "Another MySQL daemon already running with the same unix socket"
 date: 2014-07-02 17:51:09 +0100
 type: blog
-meta_img: /images/another-mysql-daemon-already-running-with-the-same-unix-socket/meta.png 
+meta_img: /images/.common/meta.png 
 comments: true
 hidden: false
 ---

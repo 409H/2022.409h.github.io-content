@@ -3,7 +3,7 @@ slug: "dissecting-a-hitbtc-phishing-site"
 title: "Dissecting a HitBTC phishing site"
 date: 2018-07-30 00:00:00 +0100
 type: blog
-meta_img: /images/dissecting-a-hitbtc-phishing-site/meta.png 
+meta_img: /images/.common/meta.png
 comments: true
 hidden: false
 ---

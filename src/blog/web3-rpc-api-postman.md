@@ -3,7 +3,7 @@ slug: "web3-rpc-api-postman"
 title: "Web3 RPC API now in Postman"
 date: 2018-04-10 22:00:00 +0100
 type: blog
-meta_img: /images/web3-rpc-api-postman/meta.png 
+meta_img: /images/.common/meta.png
 comments: true
 hidden: false
 ---

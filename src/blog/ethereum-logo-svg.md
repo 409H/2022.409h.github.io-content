@@ -3,7 +3,7 @@ slug: "ethereum-logo-svg"
 title: "Ethereum Logo SVG"
 date: 2017-06-18 17:15:34 +0100
 type: blog
-meta_img: /images/ethereum-logo-svg/meta.png 
+meta_img: /images/.common/meta.png
 comments: true
 hidden: false
 ---

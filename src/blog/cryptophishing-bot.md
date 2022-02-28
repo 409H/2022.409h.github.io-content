@@ -3,7 +3,7 @@ slug: "cryptophishing-twitter-bot"
 title: "@CryptoPhishing"
 date: 2018-09-01 00:00:00 +0100
 type: blog
-meta_img: /images/cryptophishing-twitter-bot/meta.png 
+meta_img: /images/.common/meta.png
 comments: true
 hidden: false
 ---

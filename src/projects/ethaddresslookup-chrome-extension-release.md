@@ -2,7 +2,7 @@
 slug: "ethaddresslookup-chrome-extension-release"
 title: "EtherAddressLookup (Extension)"
 summary: "A multi-purpose browser extension for Ethereum users"
-meta_img: /images/ethaddresslookup-chrome-extension-release/meta.png 
+meta_img: /images/.common/meta.png
 type: project
 comments: true
 hidden: false
