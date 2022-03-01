@@ -8,11 +8,15 @@ comments: true
 hidden: false
 ---
 
-Over the weekend, I decided to change my website build process from [Jekyll](https://jekyllrb.com/) to a [Gatsby](https://www.gatsbyjs.com/) build. It didn't take too long to do, actually the biggest time sink was migrating the content format from my old `ul.li` lists into markdown and JSON files to import into GraphQL.
+![/images/changing-the-tech-powering-my-website/meta.png](./images/changing-the-tech-powering-my-website/meta.png)
+
+Over the weekend, I decided to change my website build process from [Jekyll](https://jekyllrb.com/) to a [Gatsby](https://www.gatsbyjs.com/) build. It didn't take too long to do, and I feel like I have more flexibility with how my website functions and what I can offer with it, especially since the ecosystem around Gatsby and ReactDOM is so big.
 
 Now, instead of one giant repository, new website is stored in two repositories. One repo to hold the Gatsby setup with `gatsby-node.js` reading from the other repository, which holds only the content (mostly markdown files and images). It is much cleaner!
 
-### New shiny things!
+I am still migrating content over, but the bulk of it is here.
+
+## New shiny things!
 
 A number of new shiny things are here at the new launch and many more will come!
 
@@ -21,6 +25,8 @@ A number of new shiny things are here at the new launch and many more will come!
 I have published a tool that I built that helps me quickly calculate the cost of a specific type of transfer at any GWEI cost. It will show you the cost in USD at the current ETH price (price feed fetched from [CoinGecko](https://coingecko.com))
 
 ![/images/changing-the-tech-powering-my-website/2.png](./images/changing-the-tech-powering-my-website/2.png)
+
+👉 Check it out: [wei](/tools/wei)
 
 #### Toggle Blogs
 
