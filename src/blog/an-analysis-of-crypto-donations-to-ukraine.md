@@ -41,7 +41,7 @@ Also on this day, Uniswap team launched an easy to use interface to donate _any_
 
 https://twitter.com/haydenzadams/status/1498683412869177354
 
-This helped have this amount of transaction volumne into the Ukraine donation address per hour.
+This helped have this amount of transaction volumne into the Ukraine donation address per hour that was routed through Uniswap v3.
 
 ![/images/an-analysis-of-crypto-donations-to-ukraine/9.png](./images/an-analysis-of-crypto-donations-to-ukraine/9.png "https://dune.xyz/queries/477828")
 
