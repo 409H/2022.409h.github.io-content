@@ -37,8 +37,16 @@ Below is a graph of the sum of eth donated to Ukraine per hour up until block 14
 
 ![/images/an-analysis-of-crypto-donations-to-ukraine/4.png](./images/an-analysis-of-crypto-donations-to-ukraine/4.png "https://dune.xyz/queries/477761")
 
+Also on this day, Uniswap team launched an easy to use interface to donate _any_ token to @Ukraine and have them be able to realise its value (as the donation address only supported ETH and USDT due to it being an exchange deposit address) by routing the donation through Uniswap and have the output of ETH to the @Ukraine donation address.
 
-On 2022-03-02 (March 2nd), @Ukraine tweeted that an airdrop ***was** confirmed.
+https://twitter.com/haydenzadams/status/1498683412869177354
+
+This helped have this amount of transaction volumne into the Ukraine donation address per hour.
+
+![/images/an-analysis-of-crypto-donations-to-ukraine/9.png](./images/an-analysis-of-crypto-donations-to-ukraine/9.png "https://dune.xyz/queries/477828")
+
+
+On 2022-03-02 (March 2nd), @Ukraine tweeted that an airdrop ***was*** confirmed.
 
 https://twitter.com/Ukraine/status/1498911922791583746
 
@@ -54,7 +62,10 @@ What is more interesting, to me at least, is that of these 57k new accounts, 16k
 
 ![/images/an-analysis-of-crypto-donations-to-ukraine/6.png](./images/an-analysis-of-crypto-donations-to-ukraine/6.png "https://dune.xyz/queries/466271")
 
-On 2022-03-03 (March 3rd), the Ukraine president tweeted that the airdrop was to be cancelled, and NFTs will be issued instead.
+On 2022-03-03 (March 3rd), the Ukraine president tweeted that the airdrop was to be cancelled, but NFTs will be issued instead.
 
 https://twitter.com/FedorovMykhailo/status/1499348177002151937
 
+Whilst donations are still trickling in, as of block 14336258, @Ukraine has recieved a total of 5663ETH.
+
+![/images/an-analysis-of-crypto-donations-to-ukraine/8.png](./images/an-analysis-of-crypto-donations-to-ukraine/8.png "https://dune.xyz/queries/477799")
