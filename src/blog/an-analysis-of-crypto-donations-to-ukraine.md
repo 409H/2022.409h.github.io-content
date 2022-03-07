@@ -66,6 +66,6 @@ On 2022-03-03 (March 3rd), the Ukraine president tweeted that the airdrop was to
 
 https://twitter.com/FedorovMykhailo/status/1499348177002151937
 
-Whilst donations are still trickling in, as of block 14336258, @Ukraine has recieved a total of 5663ETH.
+Whilst donations are still trickling in, as of block 14336258, @Ukraine has recieved a total of 5661ETH.
 
-![/images/an-analysis-of-crypto-donations-to-ukraine/8.png](./images/an-analysis-of-crypto-donations-to-ukraine/8.png "https://dune.xyz/queries/477799")
+![/images/an-analysis-of-crypto-donations-to-ukraine/10.png](./images/an-analysis-of-crypto-donations-to-ukraine/10.png "https://dune.xyz/queries/477840")
