@@ -4,6 +4,7 @@ title: "Unique phishing method to look out for: the fullscreen API"
 date: "2019-01-01 00:00:00 +0100"
 type: blog
 meta_img: /images/.common/meta.png
+meta_desc: ""
 comments: true
 hidden: false
 ---

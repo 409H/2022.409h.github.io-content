@@ -4,6 +4,7 @@ title: "The dangers of malicious browser extensions"
 date: "2019-01-22 00:00:00 +0100"
 type: blog
 meta_img: /images/.common/meta.png
+meta_desc: ""
 comments: true
 hidden: false
 ---

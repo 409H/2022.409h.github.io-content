@@ -4,6 +4,7 @@ title: "Using phishing tools against the phishers and uncovering a massive Binan
 date: 2018-10-02 00:00:00 +0100
 type: blog
 meta_img: /images/.common/meta.png
+meta_desc: ""
 comments: true
 hidden: false
 ---

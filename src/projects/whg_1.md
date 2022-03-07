@@ -3,6 +3,7 @@ slug: "whg_1"
 title: "WHG_1"
 summary: "Sweeping compromised Ethereum assets to a safe address to return to users."
 meta_img: /images/whg_1/meta.png
+meta_desc: "Sweeping funds from compromised addresses and returning them!"
 type: project
 hidden: false
 ---

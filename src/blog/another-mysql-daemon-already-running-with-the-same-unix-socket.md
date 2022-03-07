@@ -4,6 +4,7 @@ title: "Another MySQL daemon already running with the same unix socket"
 date: 2014-07-02 17:51:09 +0100
 type: blog
 meta_img: /images/.common/meta.png 
+meta_desc: ""
 comments: true
 hidden: false
 ---

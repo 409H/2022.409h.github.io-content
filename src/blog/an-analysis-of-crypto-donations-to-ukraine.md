@@ -4,6 +4,7 @@ title: "An analsysis of crypto donations to Ukraine"
 date: 2022-03-06 00:00:00 +0100
 type: blog
 meta_img: /images/an-analysis-of-crypto-donations-to-ukraine/meta.png 
+meta_desc: "Analysing the onchain behaviour on Ethereum for Ukraine donations"
 comments: true
 hidden: false
 ---

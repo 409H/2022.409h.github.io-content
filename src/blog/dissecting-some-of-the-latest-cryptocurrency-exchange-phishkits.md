@@ -4,6 +4,7 @@ title: "Dissecting some of the latest cryptocurrency exchange phishkits"
 date: 2018-08-09 00:00:00 +0100
 type: blog
 meta_img: /images/.common/meta.png
+meta_desc: ""
 comments: true
 hidden: false
 ---

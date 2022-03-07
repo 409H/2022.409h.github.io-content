@@ -4,6 +4,7 @@ title: "Ethereum Logo SVG"
 date: 2017-06-18 17:15:34 +0100
 type: blog
 meta_img: /images/.common/meta.png
+meta_desc: ""
 comments: true
 hidden: false
 ---

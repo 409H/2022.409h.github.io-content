@@ -4,6 +4,7 @@ title: "The Trust Trading Scam Kit"
 date: "2018-12-11 00:00:00 +0100"
 type: blog
 meta_img: /images/.common/meta.png
+meta_desc: ""
 comments: true
 hidden: false
 ---
