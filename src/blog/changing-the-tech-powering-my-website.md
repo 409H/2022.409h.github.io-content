@@ -9,7 +9,7 @@ comments: true
 hidden: false
 ---
 
-![/images/changing-the-tech-powering-my-website/meta.png](./images/changing-the-tech-powering-my-website/meta.png)
+![/images/changing-the-tech-powering-my-website/head.png](./images/changing-the-tech-powering-my-website/head.png)
 
 Over the weekend, I decided to change my website build process from [Jekyll](https://jekyllrb.com/) to a [Gatsby](https://www.gatsbyjs.com/) build. It didn't take too long to do, and I feel like I have more flexibility with how my website functions and what I can offer with it, especially since the ecosystem around Gatsby and ReactDOM is so big.
 
