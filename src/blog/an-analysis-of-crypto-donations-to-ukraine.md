@@ -1,6 +1,6 @@
 ---
 slug: "an-analysis-of-crypto-donations-to-ukraine"
-title: "An anlsysis of crypto donations to Ukraine"
+title: "An analsysis of crypto donations to Ukraine"
 date: 2022-03-06 00:00:00 +0100
 type: blog
 meta_img: /images/an-analysis-of-crypto-donations-to-ukraine/meta.png 
