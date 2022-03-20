@@ -84,6 +84,8 @@ You can see some examples here:
 
 ![images/evodefi-bridge/5.png](./images/evodefi-bridge/5.png "withdraw() function requiring a withdrawer EOA or withdrawer contract only to operate")
 
+![images/evodefi-bridge/operators.png](./images/evodefi-bridge/operators.png)
+
 As of block `16207286`, on **BinanceSmartChain**, [there are 7 operators](https://dune.xyz/queries/519272), and 3 of them are capable of calling `withdraw()`.
 
 ```
@@ -149,6 +151,8 @@ This means, the same 3 accounts can essentially rug pull;
 * [~$17,000,000 on Ethereum Mainnet](https://etherscan.io/tokenholdings?a=0x06c30af8a82aaf9cfd319f8644584276bfbec42f)
 * [~$8,317,000 on Polygon](https://polygonscan.com/tokenholdings?a=0x06c30af8a82aaf9cfd319f8644584276bfbec42f)
 
+![images/evodefi-bridge/polygon-takers.png](./images/evodefi-bridge/polygon-takers.png)
+
 In fact, [`take()` has been called over 120 times](https://dune.xyz/queries/519328) on Polygon, with the [beneficiaries](https://dune.xyz/queries/519352) being;
 
 ```txt
@@ -168,6 +172,8 @@ Here's a snapshot of funds taken from the Polygon Bridge using `take()` and sent
 * A total of 49999 anyUSDT
 
 At current prices, this equates to **$3,042,149 that has been taken from the bridge** and sent directly to a beneficiary. Note that on Polygon alone, there is 6 different beneficiaries.
+
+![images/evodefi-bridge/ethereum-takers.png](./images/evodefi-bridge/ethereum-takers.png)
 
 Also, [`take()` has been called over 90 times](https://dune.xyz/queries/519381) on Ethereum Mainnet, with the [beneficiaries](https://dune.xyz/queries/519386) being;
 
