@@ -224,4 +224,20 @@ As far as I can tell, this `take()` functionality and it's justification of bein
 
 From what I can see, the funds that are taken are moved across chains, to centralised exchanges, and to other addresses. With funds being taken from the bridge without the need for a deposit (since there's no check in the code), this causes a financial inbalance in the bridge assets.
 
+I did reach out to EvoDefi on 2022-03-20 and one of their admins (@darwinEva) replied with the following:
+
+![images/evodefi-bridge/response_from_evo.jpg](./images/evodefi-bridge/response_from_evo.jpg)
+
+> 0x060c18597a5ee28fc1c310d770735964f702db93   - Binance account
+> 
+> 0xf758e719d88862f87585f20acc81417cae72df22 — rebalance account
+> 
+> 0x40e0dcd7024030c7b5e1d474fe95aaf7bb880ad0 — also ours, reserve account, sometimes used for rebalance also
+> 
+> 0x2074ff8f6625a9eee2e3eac2fd658df18a5c5166 — old rebalance account
+> 
+> 0x395CebfcbB9718aBe1223aa1e435261cAE25c0BB   —— refund when we got scammed by our dumb old employee, he kinda stole 3.2 mln from users, but we already found hime and recovered funds
+> 
+> thanks to keep eye on contract, if you find some suspicious activities don’t hesitate to text me:relaxed:
+
 ![images/evodefi-bridge/a-slow-rug.png](./images/evodefi-bridge/a-slow-rug.png "Is this a slow rug?")
