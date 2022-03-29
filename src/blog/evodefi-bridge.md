@@ -11,6 +11,10 @@ hidden: true
 
 I have started looking at different cross-chain bridges to understand how different bridges have different setups and understand if the risks are properly communicated to the users using them and the teams operating them.
 
+I came across EvoDefi from this tweet in my Twitter timeline and thought it warranted some more eyes on it.
+
+https://twitter.com/0xtroll/status/1497687274146136065
+
 ![images/evodefi-bridge/1.png](./images/evodefi-bridge/1.png "https://docs.evodefi.com/evodefi-the-next-generation-cross-chain-bridge/evodefi-bridge/how-does-the-bridge-work")
 
 Whilst reading the docs for EvoDefi, I notice that the "how does the bridge work?" does not actually explain _how_ it works, especially the technical side. This got me interested and to poke around.
@@ -238,6 +242,8 @@ I did reach out to EvoDefi on 2022-03-20 and one of their admins (@darwinEva) re
 > 
 > 0x395CebfcbB9718aBe1223aa1e435261cAE25c0BB   —— refund when we got scammed by our dumb old employee, he kinda stole 3.2 mln from users, but we already found hime and recovered funds
 > 
-> thanks to keep eye on contract, if you find some suspicious activities don’t hesitate to text me:relaxed:
+> thanks to keep eye on contract, if you find some suspicious activities don’t hesitate to text me ☺️
+
+I have not yet investigated if the "rebalancing" is correct and reflects on chain with keeping bridge funds balanced.
 
 ![images/evodefi-bridge/a-slow-rug.png](./images/evodefi-bridge/a-slow-rug.png "Is this a slow rug?")
