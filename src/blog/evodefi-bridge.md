@@ -59,6 +59,25 @@ Do they have good security practices to prevent an unauthorised change to the da
 }
 ```
 
+#### Bridge Contracts
+
+* Arbitrum: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Avalanche: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* BinanceSmartChain: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Cronos: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Ethereum: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Fantom: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Gnosis: `0x7ccA0859058Aa03301106aB8ABA1707A16a30821`
+* HarmonyOne: `0x7ccA0859058Aa03301106aB8ABA1707A16a30821`
+* Heco: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Moonriver: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* OKExChain: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Oasis: `0x7ccA0859058Aa03301106aB8ABA1707A16a30821`
+* Optimism: `0x7ccA0859058Aa03301106aB8ABA1707A16a30821`
+* Polygon: `0x06c30Af8A82AAf9cFd319f8644584276Bfbec42f`
+* Solana: `G9NyMJzQrRAcSm4T16tuRjyfCjXgHEw1njeYDLhLDryZ`
+
+
 ### Notables from the Bridge Smart Contracts
 
 I'll make some notes about some of the smart contracts on different chains.
