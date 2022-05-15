@@ -1,4 +1,3 @@
-
 ---
 slug: "discovering-fake-browser-extensions-that-target-users-of-ledger-trezor-mew-metamask-and-more"
 title: "Discovering Fake Browser Extensions That Target Users of Ledger, Trezor, MEW, Metamask, and More"
