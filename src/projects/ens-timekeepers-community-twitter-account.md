@@ -2,12 +2,14 @@
 slug: "ens-timekeepers-community-twitter-account"
 title: "ENS #TimeKeepers community Twitter account"
 summary: "You are an ENS Timekeeper? Then they have shared access to this Twitter account"
-meta_img: /images/.common/meta.png
+meta_img: /images/ens-timekeepers-community-twitter-account/meta.png
 meta_desc: ""
 type: project
 comments: true
 hidden: false
 ---
+
+![Banner](./images/ens-timekeepers-community-twitter-account/banner.png)
 
 ### 👉 [Go to the App](/projects/ens-time-keepers)
 
