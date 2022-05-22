@@ -19,4 +19,14 @@ Over a weekend in May 2022, I thought it would be a good use of my time 😅 to 
 
 I'm excited to see where the community takes the bot (and how soon it gets suspended 😂).
 
+The flow of the application is as follows:
+
+* User connects their Web3 wallet (via MetaMask or WalletConnect)
+* User identifies their #TimeKeepers ENS name
+* User crafts a tweet to send
+* User signs a message with their #TimeKeepers ENS name and tweet message
+* Once the cryptographically signed message is verified, the tweet is tweeted on [@EnsTimeKeepers](https://twitter.com/EnsTimeKeepers)
+
+(Note; on every tweet it will identify who's tweeted it by adding "Tweeted by 99h99.eth" as the final line)
+
 ### 👉 [Go to the App](/projects/ens-time-keepers)
