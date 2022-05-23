@@ -61,7 +61,7 @@ The Chromium engine does a checksum on the extension files before running the in
 
 *Note: Your version numbers will change, consider the path in the code blocks below to be an example.*
 
-**MacOS/*nix**
+**MacOS/nix**
 
 ```bash
 mtree -c -K sha256digest -p ~/Downloads/Extensions/MetaMask/chrome/8.1.6 > 8.1.6.mtree
@@ -79,7 +79,7 @@ This will generate a JSON file in the parent directory with filename and sha256 
 
 Once you have generated this file, you will see an output of the filenames and their corresponding hashes. You can then compare them against known good hashes below. Keep in mind that these hashes will change for each version of MetaMask.
 
-**MacOS/*nix**
+**MacOS/nix**
 * [metamask_chrome_8.1.6](https://gist.github.com/409H/332e5535f4d0c1b424323dd9fd0d5d70#file-metamask_chrome_8-1-6-mtree) (mtree)
 * [metamask_firefox_8.1.6](https://gist.github.com/409H/332e5535f4d0c1b424323dd9fd0d5d70#file-metamask_firefox_8-1-6-mtree) (mtree)
 
