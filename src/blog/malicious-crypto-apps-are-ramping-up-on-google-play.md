@@ -1,6 +1,6 @@
 ---
 slug: "malicious-crypto-apps-are-ramping-up-on-google-play"
-title: "Malicious Crypto Apps are Ramping Up on Google Pla"
+title: "Malicious Crypto Apps are Ramping Up on Google Play"
 date: 2021-01-12 00:00:00 +0100
 type: blog
 meta_img: /images/.common/meta.png
