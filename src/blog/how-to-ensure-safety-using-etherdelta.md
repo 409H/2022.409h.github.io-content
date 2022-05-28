@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security"
 ---
 
 Recently EtherDeltas' DNS was compromised which meant when you went to etherdelta.com it didn't resolve to a server they

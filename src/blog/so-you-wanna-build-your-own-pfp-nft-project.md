@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "fun,nft"
 ---
 
 NFTs (Non-Fungible Tokens) saw a meteoric rise in popularity this year, and many projects have been published with communities forming around them.

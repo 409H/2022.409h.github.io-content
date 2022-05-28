@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 **Using the browser API to fool you into giving up your details.**

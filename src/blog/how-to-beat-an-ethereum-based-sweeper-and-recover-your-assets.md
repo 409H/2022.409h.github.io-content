@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "How to beat the bad actors draining your wallet"
 comments: true
 hidden: false
+tags: "security,blockchain,recovery"
 ---
 
 When your secrets get compromised, bad actors will often put a sweeper on your account to take advantage of anything that happens to the address in the future — either you deposit ETH to try and save some tokens, an airdrop happens, or something else.

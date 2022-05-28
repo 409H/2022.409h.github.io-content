@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 Jeremiah O’Connor (security researcher at Cisco) forwarded me a domain that has been phishing for Binance logins — `logins-binance.com12754825.ml`.

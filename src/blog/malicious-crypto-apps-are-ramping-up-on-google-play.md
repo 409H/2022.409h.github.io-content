@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing,applications"
 ---
 
 Some of these apps have thousands of downloads and can fool you into thinking they’re legitimate.

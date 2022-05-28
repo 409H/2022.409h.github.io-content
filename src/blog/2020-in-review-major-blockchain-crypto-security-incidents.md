@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "After a tumultuous 2019, was 2020 better or worse? Let’s review."
 comments: true
 hidden: false
+tags: "year in review,security"
 ---
 
 *To catch up, check out [my previous 2019 in Review](/2019-in-review-major-blockchain-crypto-security-incidents).*

@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 I was browsing etherscan.io comments recently while hunting for scammers and came across a suspicious account — one with a MyEtherWallet logo avatar and the username “DEV.” They seemed to offer off-site help over email which is very suspicious to me as they usually get you to send ETH to “fund a smart contract to power a transaction reversal.”

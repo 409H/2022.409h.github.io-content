@@ -7,6 +7,7 @@ meta_img: /images/an-analysis-of-crypto-donations-to-ukraine/meta.png
 meta_desc: "Analysing the onchain behaviour on Ethereum for Ukraine donations"
 comments: true
 hidden: false
+tags: "analysis,ukraine,donations,blockchain"
 ---
 
 The purpose of this is to discuss only the cryptocurrency events that occured after @Ukraine tweeted they were accepting crypto donations to aid [the situation of Russia invading](https://en.wikipedia.org/wiki/2021%E2%80%932022_Russo-Ukrainian_crisis#Escalation_and_invasion_(February_2022_%E2%80%93_present)).

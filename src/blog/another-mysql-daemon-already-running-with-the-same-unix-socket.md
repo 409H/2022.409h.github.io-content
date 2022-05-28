@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "mysql"
 ---
 
 I recently had the experience of a server shutting down ungracefully, and caused MySQL to completely fall over and die. After executing `service mysqld status`, it showed that `mysqld` was not running;

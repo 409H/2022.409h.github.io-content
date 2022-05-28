@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "fun"
 ---
 
 So I wanted to practice with creating SVG's, and I was wondering what I should try to create. Having an interest in 

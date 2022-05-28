@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "This year is shaping up to be an interesting year in terms of security exploits and domain compromises."
 comments: true
 hidden: false
+tags: "year in review,security"
 ---
 
 **This year is shaping up to be an interesting year in terms of security exploits and domain compromises.**

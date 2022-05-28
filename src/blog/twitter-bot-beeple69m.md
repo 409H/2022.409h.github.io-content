@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "twitter"
 ---
 
 ### 👉 Go follow the bot: [@beeple69m](https://twitter.com/beeple69m)

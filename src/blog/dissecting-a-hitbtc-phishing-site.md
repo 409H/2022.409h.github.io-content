@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 Welcome to part 2 of 1000 of “Harry follows phishers”

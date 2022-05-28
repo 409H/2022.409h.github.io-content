@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Using a familiar phishing method to target new brands."
 comments: true
 hidden: false
+tags: "security,phishing,browser extensions"
 ---
 
 ![MyCrypto and Phishfort](./images/discovering-fake-browser-extensions-that-target-users-of-ledger-trezor-mew-metamask-and-more/0.jpeg)

@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing,analysis"
 ---
 
 An analysis of over 100,000 click-throughs to popular crypto scams, via Dune Analytics

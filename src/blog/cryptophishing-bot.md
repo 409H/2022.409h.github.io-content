@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "A bot that tweets malicious domains and infra used in cryptocurrency phishing campaigns"
 comments: true
 hidden: false
+tags: "twitter,phishing"
 ---
 
 ### 👉 Go follow the bot: [@CryptoPhishing](https://twitter.com/CryptoPhishing)

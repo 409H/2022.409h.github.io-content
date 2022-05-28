@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "The world of cryptocurrency is as dangerous as ever and it’s hard to ignore."
 comments: true
 hidden: false
+tags: "year in review,security"
 ---
 
 *To catch up, check out my previous [2020 in Review](/2020-in-review-major-blockchain-crypto-security-incidents).*

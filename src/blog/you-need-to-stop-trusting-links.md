@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 Here’s a walk-through of the popular links that people often fall for.

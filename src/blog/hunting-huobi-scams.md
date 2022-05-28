@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 Huobi-related scams aren’t seen very often, but they’re still just as dangerous as every other scam.

@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 It’s been about a year since I started taking a major interest in phishing within the cryptocurrency scene, namely Ethereum. During that time, I’ve built relations and a great network of people passing data between each other to help better protect users against phishing.

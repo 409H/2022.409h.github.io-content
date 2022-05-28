@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "With the surge of mainstream interest in cryptocurrency, many scams occur on one of the most popular places to discuss crypto: Twitter."
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 Many of the anti-scam articles that we publish involve the tactic of [social engineering](/following-an-ethereum-phishing-scam-down-the-rabbit-hole) - tricking a user into sending funds or revealing their secret recovery phrases. With the surge of mainstream interest in cryptocurrency, many scams occur on one of the most popular places to discuss crypto: Twitter.

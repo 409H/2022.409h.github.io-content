@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: true
+tags: "security,blockchain"
 ---
 
 I have started looking at different cross-chain bridges to understand how different bridges have different setups and understand if the risks are properly communicated to the users using them and the teams operating them.

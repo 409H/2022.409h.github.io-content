@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "scp"
 ---
 
 I recently bought a mac, and i prefer to my Windows machine, as I wasn't a fan of Win8. As I don't keep my databases within my central version control server, I had to manually copy them down from production, to my local machine (to complete my development environment set-up.)

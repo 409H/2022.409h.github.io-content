@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Stop handing out your information without doing your due diligence."
 comments: true
 hidden: false
+tags: "security"
 ---
 
 **Stop handing out your information without doing your due diligence.**

@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "What to look for when using private keys with your dApp"
 comments: true
 hidden: false
+tags: "security"
 ---
 
 Key management is a big concern in the cryptocurrency industry as keys give access to addresses, and addresses can hold funds. If keys are handled incorrectly, users could find their funds missing, without permission…

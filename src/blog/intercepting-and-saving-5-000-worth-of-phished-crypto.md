@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "A special occurrence. I managed to rescue $5k of stolen funds and return it to the owner."
 comments: true
 hidden: false
+tags: "security,phishing,recovery"
 ---
 
 **This is a special occurrence.**

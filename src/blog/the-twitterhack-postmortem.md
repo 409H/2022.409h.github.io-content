@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Hundreds of millions of users were exposed to crypto scam tweets from compromised Twitter accounts. What happened?"
 comments: true
 hidden: false
+tags: "security,phishing,analysis"
 ---
 
 Note: This is a high-level overview of the events that occurred. To see a detailed timeline of every single account and tweet, [view this spreadsheet](https://docs.google.com/spreadsheets/d/1ZpIzc1Z2i9zcRlS89Qpd7CYD0IEICNXO6prbmgbnvNk/edit?usp=sharing). 

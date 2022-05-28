@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "fun,infrastructure"
 ---
 
 The following will take you through my steps of setting up an Ethereum node, then spawning an RPC server to be able 

@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "MakerDAO, Uniswap, Synthetix and have been mimicked in a recent wave of phishing sites."
 comments: true
 hidden: false
+tags: "security,phishing,blockchain"
 ---
 
 ![Phishfort](./images/phishing-campaigns-take-aim-at-web3-defi-applications/0.jpeg)

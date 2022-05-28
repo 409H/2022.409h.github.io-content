@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "A look back at some of the crypto hacks, scams, and arrests that happened this past year (2019)."
 comments: true
 hidden: false
+tags: "year in review,security"
 ---
 
 A look back at some of the crypto hacks, scams, and arrests that happened this past year.

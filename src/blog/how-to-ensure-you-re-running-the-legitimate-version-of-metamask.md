@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 I’ve written this as a reaction to [the recent news of an attack on a member of the community](https://twitter.com/NexusMutual/status/1338441873560571906) resulting in a loss of ~$8,000,000 in personal funds. After the story came to light, many people in the community were concerned and wanted to know if they were running a legitimate version of MetaMask.

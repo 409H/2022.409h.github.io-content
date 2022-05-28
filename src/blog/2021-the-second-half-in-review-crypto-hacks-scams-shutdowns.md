@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Take a look at the second half of 2021 and reviewing the security events that happened in the industry."
 comments: true
 hidden: false
+tags: "year in review,security"
 ---
 
 ![](./images/2021-the-second-half-in-review-crypto-hacks-scams-shutdowns/1.png)

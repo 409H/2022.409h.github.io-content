@@ -7,6 +7,7 @@ meta_img: /images/changing-the-tech-powering-my-website/meta.png
 meta_desc: "Moving away from Jekyll and now using Gatsby!"
 comments: true
 hidden: false
+tags: "technology"
 ---
 
 ![/images/changing-the-tech-powering-my-website/head.png](./images/changing-the-tech-powering-my-website/head.png)

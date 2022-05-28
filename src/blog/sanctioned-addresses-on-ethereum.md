@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "There are sanctioned addresses at the smart contract level on Ethereum. But what are they?"
 comments: true
 hidden: false
+tags: "compliance,security,analysis"
 ---
 
 https://twitter.com/sniko_/status/1514982907819044875

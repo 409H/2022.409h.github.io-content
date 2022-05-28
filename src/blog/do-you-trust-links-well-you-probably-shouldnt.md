@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 Back in 2018, I published a [research article](/you-need-to-stop-trusting-links) about how many click-throughs we managed to track through to scams utilising popular link shorteners. This article aims to be supplemental to that and demonstrates why you should not blindly trust links that you find on social media platforms, especially in the blockchain industry.

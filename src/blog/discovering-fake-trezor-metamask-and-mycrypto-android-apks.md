@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "These fake apps will get you if you’re not careful. Always verify at a trusted source."
 comments: true
 hidden: false
+tags: "security,phishing,applications"
 ---
 
 These fake apps will get you if you’re not careful. Always verify at a trusted source.

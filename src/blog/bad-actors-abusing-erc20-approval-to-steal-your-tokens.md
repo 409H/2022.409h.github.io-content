@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Be careful with what parameters you call approve() with!."
 comments: true
 hidden: false
+tags: "smart contract,blockchain,security,phishing"
 ---
 
 ### Overview

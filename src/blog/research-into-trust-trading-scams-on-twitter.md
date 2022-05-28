@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Over 300 Twitter accounts are trying to steal your money."
 comments: true
 hidden: false
+tags: "security,phishing"
 ---
 
 ### Motivation and Purpose

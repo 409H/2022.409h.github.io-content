@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: ""
 comments: true
 hidden: false
+tags: "fun"
 ---
 
 I tried searching for something that had all the [web3 RPC endpoints](https://github.com/ethereum/wiki/wiki/JSON-RPC#json-rpc-api) in one place so I can test/play with whatever on my local node. Postman is an application that you can use to easily test APIs and modified requests in a easy-to-use GUI. So, I've decided to import everything from the wiki and share it in a public collection - https://getpostman.com.

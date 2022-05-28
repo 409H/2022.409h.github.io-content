@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Previously, I was able to return $4k of stolen funds to a user. I recently made another recovery to the tune of over $10k."
 comments: true
 hidden: false
+tags: "security,phishing,recovery"
 ---
 
 Centralized exchanges come with their drawbacks and may not fulfill all of the goals generally associated with crypto philosophies, but there are instances when custodial elements can become beneficial. For example, in the wake of the [recent Twitter hack](/the-twitterhack-postmortem), it was revealed that [Coinbase blocked user attempts to send over $280,000 in Bitcoin to the scam address](https://www.theverge.com/2020/7/20/21331499/coinbase-twitter-hack-elon-musk-bill-gates-joe-biden-bitcoin-scam).

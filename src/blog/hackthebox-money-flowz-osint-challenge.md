@@ -7,6 +7,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Frank Vitalik needs to do a better job covering their tracks"
 comments: true
 hidden: false
+tags: "writeup"
 ---
 
 ![HackTheBox Banner](./images/hackthebox-money-flowz-osint-challenge/1.png)
