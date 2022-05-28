@@ -16,6 +16,8 @@ Do you trust this link: https://t.co/KODJKyanrb
 
 ![./images/faking-twitter-unfurling/card-validator.png](./images/faking-twitter-unfurling/card-validator.png)
 
+https://twitter.com/sniko_/status/1456320221564780550
+
 Twitter says this link should take you to Uniswap, nobody would be none-the-wiser because we trust Twitter. However, if you clicked on the link card, it would take you here. To harrydenley.com.
 
 Of course, my original Tweet wasn’t too great at catching people out, and the end page wasn’t either - it doesn’t even look like Uniswap. BUT bad actors would design their campaigns like this to trick you to thinking you’re on Uniswap by utilising a little trick in Twitters unfurling technique. For example, they could make their tweet look like Uniswap and show you a link card that takes you to Uniswap and ask you for seed phrases or even have a fully functional Uniswap page and when you confirm a swap, it just sends your assets to their EOA.
