@@ -3,7 +3,7 @@ slug: "kyber-community-pool"
 title: "KyberCommunityPool"
 summary: "front-end work (ReactDOM) to interact with Kyber smart contracts to particiapte in staking KNC (Katalyst) with KCP having the delegated voting power."
 meta_img: /images/.common/meta.png
-meta_desc: ""
+meta_desc: "front-end work (ReactDOM) to interact with Kyber smart contracts to particiapte in staking KNC (Katalyst) with KCP having the delegated voting power."
 type: project
 hidden: false
 ---

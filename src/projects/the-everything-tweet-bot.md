@@ -3,7 +3,7 @@ slug: "the-everything-tweet-bot"
 title: "TheEverythingTweetBot"
 summary: "This is a Twitter bot that makes use of Heroku and Heroku Scheduler to tweet"
 meta_img: /images/.common/meta.png
-meta_desc: ""
+meta_desc: "This is a Twitter bot that makes use of Heroku and Heroku Scheduler to tweet"
 type: project
 hidden: false
 ---

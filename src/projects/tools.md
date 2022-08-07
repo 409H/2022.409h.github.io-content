@@ -3,7 +3,7 @@ slug: "tools"
 title: "Tools"
 summary: "Just some generic tools."
 meta_img: /images/.common/meta.png
-meta_desc: ""
+meta_desc: "Some generic tools I have built"
 type: project
 hidden: false
 ---

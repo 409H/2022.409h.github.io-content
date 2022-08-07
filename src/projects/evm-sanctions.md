@@ -3,7 +3,7 @@ slug: "evm-sanctions"
 title: "EVM Sanctions"
 summary: "A dashboard detailing transactions that sanction an address on the blockchain"
 meta_img: /images/evm-sanctions/meta.png
-meta_desc: ""
+meta_desc: "A dashboard detailing transactions that sanction an address on the blockchain"
 type: project
 comments: true
 hidden: false

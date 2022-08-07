@@ -3,7 +3,7 @@ slug: "ens-timekeepers-community-twitter-account"
 title: "ENS #TimeKeepers community Twitter account"
 summary: "You are an ENS Timekeeper? Then they have shared access to this Twitter account"
 meta_img: /images/ens-timekeepers-community-twitter-account/meta.png
-meta_desc: ""
+meta_desc: "You are an ENS Timekeeper? Then they have shared access to this Twitter account"
 type: project
 comments: true
 hidden: false
