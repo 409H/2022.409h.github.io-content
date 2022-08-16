@@ -33,4 +33,9 @@ After you have done the first two steps, the application will scan for your asse
 
 Note: moving the asset to your identified safe address will cost gas as it is in onchain transaction.
 
+You can self-host this application also;
+
+* [eoa-migrator-api](https://github.com/409H/eoa-migrator-api) - easy to deploy to Heroku, just plug in your API keys
+* [eoa-migrator](https://github.com/409H/eoa-migrator) - install dependencies and serve the UI
+
 ### 👉 [Go to the App](https://eoa-migrator.harrydenley.com)
