@@ -10,9 +10,9 @@ hidden: true
 tags: "security,phishing"
 ---
 
-![./images/faking-twitter-unfurling-part-2/1.png](./images/faking-twitter-unfurling-part-2/1.png)
-
 Hey, you thought you'd be some place else because a tweet told you so? This is an experiment to see how many people will click a link because a "trusted" source tells you to goes somewhere.
+
+![./images/faking-twitter-unfurling-part-2/1.png](./images/faking-twitter-unfurling-part-2/1.png)
 
 I am testing crypto-twitter ([again](https://harrydenley.com/faking-twitter-unfurling/)) to educate users on the pitfalls of unfurling and to see how many click-throughs my various tweets get.
 
