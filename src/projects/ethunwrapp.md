@@ -75,9 +75,9 @@ With this function you can mint an edition with your hot keys for your other add
 Some edition might be time sensitive for whatever reason - especially in the future. With this configuration, we can create an edition and choose when the mint period is by supplying a unix timestamp.
 
 ## Future hopes & plans
-During the time I have spent creating this project, I started to hope that it would become more than just a one-time "flashinthepan" thing and have recurring use for the community.
+During the time I have spent creating this project, I started to hope that it would become more than just a one-time "flash_in_the_pan" thing and instead have recurring use for the community.
 
-I think it would be cool to see adoption of `contract EthUnwrapp` for events more than just a year acitivty unwrapped and the idea is accepted, with the community suggesting on what else to unwrap.
+I think it would be cool to see adoption of `contract EthUnwrapp` for events more than just a year acitivty unwrapped and the idea is accepted, with the community suggesting on what else to unwrap. I have thought about and started the idea of having a main profile page (`/profile/0x11b6A5fE2906F3354145613DB0d99CEB51f604C9`) for an address that shows different events to unwrapp - I just need to finalise the design for it.
 
 I don't have any plans to offer an ERC20 token and staking (*cough*feeswtf*cough*) because that really doesn't make sense, and originally I was on the fence about offering NFTs but I think the decision to offer badges (read: NFT) makes sense in the grand scheme of things - a vanity badge to show support for the edition and boost your profile (think "Game Achievement Profile") - plus they are optional and you get the same service as if you did not mint an edition.
 
