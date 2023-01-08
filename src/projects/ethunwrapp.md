@@ -28,11 +28,13 @@ I experimented with Google BigQuery public Ethereum dataset to query the chain d
 
 This led me to the great trusted oracle - Etherscan - which turned out great because the API for their products supports many EVM chains! 🤩
 
-I also wanted to make full-use of [remotion](https://www.remotion.dev/) by using their @lambda library to render the videos and allow you to download them as .mp4 - but after I requested an increase in my lambda concurrent connections, my AWS accounts got put on hold and eventually closed 😬 So now I am looking at the [SSR docs](https://www.remotion.dev/docs/ssr) to build this myself and probably host it on [DigialOCean functions](https://m.do.co/c/b1c2c28c6822). However, in the mean time Desktop users can download a summary image to share on social media.
+I also wanted to make full-use of [remotion](https://www.remotion.dev/) by using their @lambda library to render the videos and allow you to download them as .mp4 - but after I requested an increase in my lambda concurrent connections, my AWS accounts got put on hold and eventually closed 😬 So now I am looking at the [SSR docs](https://www.remotion.dev/docs/ssr) to build this myself and probably host it on [DigialOCean functions](https://m.do.co/c/b1c2c28c6822). However, in the mean time Desktop users can download a summary image to share on social media (process is a little buggy/broken on mobile.)
 
-I had the idea to be able to move all the ETH in the contract to a GnosisSafe multisig (in 1 step), but [the OPCODE repricing](https://consensys.net/diligence/blog/2019/09/stop-using-soliditys-transfer-now/) slipped my mind (and my test cases only tested withdrawing to an EOA 😅), so I am unable to call `withdraw()` directly the multisig [without supplying an access_list in the transaction](https://eips.ethereum.org/EIPS/eip-2930) - which also adds friction to any users who want to call that function themselves to withdraw the funds on the projects behalf. Thankfully, the `beneficary` is changeable by the owner so it's not a big issue!
+I had the idea to be able to move all the ETH in the contract to a GnosisSafe multisig (in 1 step), but [the OPCODE repricing](https://consensys.net/diligence/blog/2019/09/stop-using-soliditys-transfer-now/) slipped my mind (and my test cases only tested withdrawing to an EOA 😅), so I am unable to call `withdraw()` directly to the multisig [without supplying an access_list in the transaction](https://eips.ethereum.org/EIPS/eip-2930) - which also adds friction to any users who want to call that function themselves to withdraw the funds on the projects behalf. Thankfully, the `beneficary` is changeable by the owner so it's not a big issue!
 
 I am by no means a great frontend developer - especially with making things look 💅 pretty 💅 but the project has had a few iterations of design and I've finally settled on the current design using tailwindcss.
+
+I'm using NextJs with serveless functions and _sometimes_ the function timesout (I could work on optimising the code, sure), but that's an issue I also need to solve - in the meantime I have requested a increase to the timeout param on Netlify 😅
 ## Project Design
 I designed the project to make use of ERC1155 standard NFTs (though within the app, they are mostly referred to as "badges"), with the idea that people can buy these badges to display on their profile and within unwrapped videos to show support for the project and have bragging rights on how many badges their profile has - more on that below!
 
@@ -64,6 +66,8 @@ struct Edition {
 
 With this setup, we can create editions with different parameters, all under the same collection (read: smart contract address!)
 
+Note: [The smart contract](https://etherscan.io/address/0x90407565738b7197f1465ae56741042a63e062cb) has _not_ been audited (`0x90407565738b7197f1465ae56741042a63e062cb`.)
+
 ## ✨ Some pretty cool notable features ✨ 
 
 ### `address validator`
@@ -89,8 +93,6 @@ I think it would be cool to see adoption of `contract EthUnwrapp{}` for events m
 
 I don't have any plans to offer an ERC20 token and staking (*cough*feeswtf*cough*) because that really doesn't make sense, and originally I was on the fence about offering NFTs but I think the decision to offer badges (read: NFT) makes sense - a vanity badge to show support for the edition and boost your profile (think "Game Achievement Profile") - plus they are optional and you get the same service as if you did not mint an edition.
 
-Big up to my cat, Agnes, for being my mascot and keeping me company on very late night programming sessions.
-
-![Agnes](./images/ethunwrapp/agnes.jpg)
+![Agnes](./images/ethunwrapp/agnes.jpg "Big up to my cat, Agnes, for being my mascot and keeping me company on very late night programming sessions.")
 
 ### 👉 [Go to the App](https://ethunwr.app/)
