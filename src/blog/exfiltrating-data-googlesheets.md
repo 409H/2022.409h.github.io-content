@@ -66,3 +66,23 @@ Now all the data is in an array and much easier to manage - this could be on the
 ```
 
 Also, the request to the remote server comes from Google servers and not the client looking at the spreadsheet.
+
+### Detection
+
+We can deploy an AppScript to detect if the sheet has formulas AND if the formula includes capability of data exfiltration. Then we can manually check if the formulas are doing anything nefarious.
+
+```js
+function checkForPossibleExfil() {
+  const regex = new RegExp("importdata");
+  var data = SpreadsheetApp.getActiveSheet().getDataRange().getFormulas();
+  for(i in data) {
+    for (var j in data[i]) {
+      if(data[i][j]) {
+        if(data[i][j].match(regex)) {
+          Logger.log(data[i][j]);
+        }
+      }
+    }
+  }
+}
+```
