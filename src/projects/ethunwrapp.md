@@ -5,8 +5,8 @@ summary: "Unwrapp events from EVM chains with sharable videos and profile pages"
 meta_img: /images/ethunwrapp/meta.png
 meta_desc: "Unwrapp events from EVM chains with sharable videos and profile pages"
 type: project
-comments: true
 hidden: false
+project_url: "https://ethunwr.app/"
 ---
 
 ### 👉 [Go to the App](https://ethunwr.app/)

@@ -6,6 +6,7 @@ meta_img: /images/whg_1/meta.png
 meta_desc: "Sweeping funds from compromised addresses and returning them!"
 type: project
 hidden: false
+project_url: "https://etherscan.io/address/whg.eth"
 ---
 
 This address (`0x69670b0c1b100739812415dd474804bb32b3aeca`) is one that I use to send all compromised funds I come across in the space. It has been involved in returning ~$1M to users.

@@ -6,6 +6,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "Some generic tools I have built"
 type: project
 hidden: false
+project_url: ""
 ---
 
 Welcome to my toolbox, here I publish some of my tools that help me in my day-to-day.

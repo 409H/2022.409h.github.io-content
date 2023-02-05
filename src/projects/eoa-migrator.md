@@ -5,8 +5,8 @@ summary: "An application that helps you migrate assets belonging to an EOA"
 meta_img: /images/eoa-migrator/meta.png
 meta_desc: "An application that helps you migrate assets belonging to an EOA"
 type: project
-comments: true
 hidden: false
+project_url: "https://eoa-migrator.harrydenley.com"
 ---
 
 ![Banner](./images/eoa-migrator/meta.png)

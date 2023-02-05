@@ -5,8 +5,8 @@ summary: "A multi-purpose browser extension for Ethereum users"
 meta_img: /images/.common/meta.png
 meta_desc: "A multi-purpose browser extension for Ethereum users"
 type: project
-comments: true
 hidden: false
+project_url: "https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn"
 ---
 
 ## 👉 [Browser Web Store](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)

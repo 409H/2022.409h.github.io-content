@@ -5,8 +5,8 @@ summary: "A dashboard detailing transactions that sanction an address on the blo
 meta_img: /images/evm-sanctions/meta.png
 meta_desc: "A dashboard detailing transactions that sanction an address on the blockchain"
 type: project
-comments: true
 hidden: false
+project_url: "https://harrydenley.com/projects/evm-sanctions"
 ---
 
 ![Banner](./images/evm-sanctions/meta.png)

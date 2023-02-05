@@ -6,6 +6,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "front-end work (ReactDOM) to interact with Kyber smart contracts to particiapte in staking KNC (Katalyst) with KCP having the delegated voting power."
 type: project
 hidden: false
+project_url: ""
 ---
 
 I built the frontend application for KCP, which was a service that users could delegate their voting power to KCP by depositing their KNC tokens and periodically get ETH rewards for participating by-proxy in governance. The project was [officially launched October 20, 2020](https://defidude.medium.com/kyber-community-pool-now-live-2226bf526081).

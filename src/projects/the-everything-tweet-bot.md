@@ -6,6 +6,7 @@ meta_img: /images/.common/meta.png
 meta_desc: "This is a Twitter bot that makes use of Heroku and Heroku Scheduler to tweet"
 type: project
 hidden: false
+project_url: "https://github.com/409H/TheEverthingTweetBot"
 ---
 
 # The Everything Tweet Bot
