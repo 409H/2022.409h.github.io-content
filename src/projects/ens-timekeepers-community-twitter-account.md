@@ -11,8 +11,6 @@ project_url: "https://harrydenley/projects/ens-time-keepers"
 
 ![Banner](./images/ens-timekeepers-community-twitter-account/banner.png)
 
-### 👉 [Go to the App](/projects/ens-time-keepers)
-
 I recently came across a very niche "subsection" of the EthereumNameService that involved people minting ENS names around the 24H clock. Why? I'm not sure. But they have a cool website: [ENSClock](https://ensclock.com/).
 
 Over a weekend in May 2022, I thought it would be a good use of my time 😅 to create a small project to allow those who own part of the clock to tweet from a "community owned Twitter account" by authenticating users who owned a time to tweet only on the hour they have the ENS name for. For example, if you own 14h20.eth then you can tweet every day but only if it is between 1400UTC and 1459UTC (inclusive).
@@ -28,5 +26,3 @@ The flow of the application is as follows:
 * Once the cryptographically signed message is verified, the tweet is tweeted on [@EnsTimeKeepers](https://twitter.com/EnsTimeKeepers)
 
 (Note; on every tweet it will identify who's tweeted it by adding "Tweeted by 99h99.eth" as the final line)
-
-### 👉 [Go to the App](/projects/ens-time-keepers)

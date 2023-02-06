@@ -11,8 +11,6 @@ project_url: "https://harrydenley.com/projects/evm-sanctions"
 
 ![Banner](./images/evm-sanctions/meta.png)
 
-### 👉 [Go to the App](/projects/evm-sanctions)
-
 I've wanted to have my own dashboard so I can monitor different EVM-based sanctions for certain contracts, and I've finally found some spare time on the weekend to do it!
 
 The app steps through blocks to watch for events from certain contracts ([`0x40c57923924b5c5c5455c48d93317139addac8fb`](https://etherscan.io/address/0x40c57923924b5c5c5455c48d93317139addac8fb), [`0xdAC17F958D2ee523a2206206994597C13D831ec7`](https://etherscan.io/address/0xdAC17F958D2ee523a2206206994597C13D831ec7)) and then indexes the ones that I have noted as "evm-sanction"-worthy.
@@ -40,5 +38,3 @@ https://twitter.com/sniko_/status/1514982907819044875
 ### Findings #4
 
 * Address [`0x5441bfcda141759eaae9737a28cb2f9fd43e8869`]() got [blacklisted at block 9554129](https://etherscan.io/tx/0x266cf685565a922f45a9f18492b30d7e4dbf1c849dcecfdb0d35422eaac84d1e) then tried to unblacklist itself three times ([Tx1](https://etherscan.io/tx/0x4fc3eb3f58b85d444e20f58e21413fb5474576aa57e4b09921a28a862d796ba2), [Tx2](https://etherscan.io/tx/0x3680e1331617efc5b0351723821dd18a417b0692e5d714d642bac7656aae529d), [Tx3](https://etherscan.io/tx/0xac8572b8ffd6c035b12f2f0cbf4b985b9b6bca2f4aef9157ee92e5c4b21b4773)) before [being unblacklisted](https://etherscan.io/tx/0x7b9bfde7fb39ec4616f37fdee42c14185ddaabb3f4a6ee8b2b0169763f398702) 604,210 blocks later.
-
-### 👉 [Go to the App](/projects/evm-sanctions)
