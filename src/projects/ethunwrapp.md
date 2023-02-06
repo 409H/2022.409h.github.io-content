@@ -9,7 +9,7 @@ hidden: false
 project_url: "https://ethunwr.app/"
 ---
 
-![Banner](./images/ethunwrapp/meta.png)
+![Banner](./images/ethunwrapp/banner.png)
 ## Intro
 During the holiday season in December, I thought I would be a fun idea to start a project to reflect back on the crazy year, with insipration from Spotify Unwrapped since I recently viewed by Spotify Unwrapped and I loved the idea of it!
 
