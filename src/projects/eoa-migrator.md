@@ -9,8 +9,9 @@ hidden: false
 project_url: "https://eoa-migrator.harrydenley.com"
 ---
 
-![Banner](./images/eoa-migrator/meta.png)
+![Banner](./images/eoa-migrator/banner.png)
 
+## Intro
 With account-based blockchain, such as EVM, there comes a time when you want to migrate your assets from one externally-owned account (EOA) to another address. With the nature of EVM chains, there are a lot of different assets that an account can own; ERC20 Tokens, ERC721/ERC1115 Tokens, Owned Contracts.
 
 This tool collects all your assets and gives you a UI to prompt your wallet to transfer your assets to your identified safe address.
