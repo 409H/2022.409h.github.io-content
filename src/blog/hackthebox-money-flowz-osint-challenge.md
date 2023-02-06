@@ -31,7 +31,7 @@ We have the following description to work with:
 So:
 
 * We can probably find the flag without any special tools, considering it is an OSINT task and no connection to the HTB is needed
-* We are in search of a flag, formatted HTB{...}
+* We are in search of a flag, formatted like `HTB{...}`
 
 ### The Search
 
