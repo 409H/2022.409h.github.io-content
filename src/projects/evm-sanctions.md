@@ -9,8 +9,9 @@ hidden: false
 project_url: "https://harrydenley.com/projects/evm-sanctions"
 ---
 
-![Banner](./images/evm-sanctions/meta.png)
+![Banner](./images/evm-sanctions/banner.png)
 
+## Intro
 I've wanted to have my own dashboard so I can monitor different EVM-based sanctions for certain contracts, and I've finally found some spare time on the weekend to do it!
 
 The app steps through blocks to watch for events from certain contracts ([`0x40c57923924b5c5c5455c48d93317139addac8fb`](https://etherscan.io/address/0x40c57923924b5c5c5455c48d93317139addac8fb), [`0xdAC17F958D2ee523a2206206994597C13D831ec7`](https://etherscan.io/address/0xdAC17F958D2ee523a2206206994597C13D831ec7)) and then indexes the ones that I have noted as "evm-sanction"-worthy.
