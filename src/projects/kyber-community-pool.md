@@ -9,6 +9,9 @@ hidden: false
 project_url: ""
 ---
 
+![Banner](./images/kyber-community-pool/banner.png)
+
+## Intro
 I built the frontend application for KCP, which was a service that users could delegate their voting power to KCP by depositing their KNC tokens and periodically get ETH rewards for participating by-proxy in governance. The project was [officially launched October 20, 2020](https://defidude.medium.com/kyber-community-pool-now-live-2226bf526081).
 
 At it's peak, we had 1,150 unique addresses delegating their governance voting power to the project.
