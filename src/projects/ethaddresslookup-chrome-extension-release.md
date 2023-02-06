@@ -9,6 +9,11 @@ hidden: false
 project_url: "https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn"
 ---
 
+![Banner](./images/ethaddresslookup-chrome-extension-release/banner.png)
+
+## Intro
+A browser extension built in 2017 to tackle crypto phishing and offer a suite of utility tools.
+
 ## 👉 [Browser Web Store](https://chrome.google.com/webstore/detail/etheraddresslookup/pdknmigbbbhmllnmgdfalmedcmcefdfn)
 
 ## 👉 [GitHub Repo](https://github.com/409H/EtherAddressLookup#etheraddresslookup)
