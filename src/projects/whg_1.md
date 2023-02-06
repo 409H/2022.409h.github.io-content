@@ -9,6 +9,9 @@ hidden: false
 project_url: "https://etherscan.io/address/whg.eth"
 ---
 
+![Banner](./images/whg_1/banner.png)
+
+## Intro
 This address (`0x69670b0c1b100739812415dd474804bb32b3aeca`) is one that I use to send all compromised funds I come across in the space. It has been involved in returning ~$1M to users.
 
 [0x69670b0c1b100739812415dd474804bb32b3aeca](https://etherscan.io/address/0x69670b0c1b100739812415dd474804bb32b3aeca)
