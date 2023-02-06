@@ -9,9 +9,7 @@ hidden: false
 project_url: "https://ethunwr.app/"
 ---
 
-### 👉 [Go to the App](https://ethunwr.app/)
-
-![Banner](./images/ethunwrapp/meta.png)
+![Banner](./images/ethunwrapp/banner.png)
 ## Intro
 During the holiday season in December, I thought I would be a fun idea to start a project to reflect back on the crazy year, with insipration from Spotify Unwrapped since I recently viewed by Spotify Unwrapped and I loved the idea of it!
 
@@ -94,5 +92,3 @@ I think it would be cool to see adoption of `contract EthUnwrapp{}` for events m
 I don't have any plans to offer an ERC20 token and staking (*cough*feeswtf*cough*) because that really doesn't make sense, and originally I was on the fence about offering NFTs but I think the decision to offer badges (read: NFT) makes sense - a vanity badge to show support for the edition and boost your profile (think "Game Achievement Profile") - plus they are optional and you get the same service as if you did not mint an edition.
 
 ![Agnes](./images/ethunwrapp/agnes.jpg "Big up to my cat, Agnes, for being my mascot and keeping me company on very late night programming sessions.")
-
-### 👉 [Go to the App](https://ethunwr.app/)

@@ -9,10 +9,9 @@ hidden: false
 project_url: "https://eoa-migrator.harrydenley.com"
 ---
 
-![Banner](./images/eoa-migrator/meta.png)
+![Banner](./images/eoa-migrator/banner.png)
 
-### 👉 [Go to the App](https://eoa-migrator.harrydenley.com)
-
+## Intro
 With account-based blockchain, such as EVM, there comes a time when you want to migrate your assets from one externally-owned account (EOA) to another address. With the nature of EVM chains, there are a lot of different assets that an account can own; ERC20 Tokens, ERC721/ERC1115 Tokens, Owned Contracts.
 
 This tool collects all your assets and gives you a UI to prompt your wallet to transfer your assets to your identified safe address.
@@ -37,5 +36,3 @@ You can self-host this application also;
 
 * [eoa-migrator-api](https://github.com/409H/eoa-migrator-api) - easy to deploy to Heroku, just plug in your API keys
 * [eoa-migrator](https://github.com/409H/eoa-migrator) - install dependencies and serve the UI
-
-### 👉 [Go to the App](https://eoa-migrator.harrydenley.com)
