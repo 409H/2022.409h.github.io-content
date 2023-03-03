@@ -15,6 +15,7 @@ After seeing how useful the [@TodayInInfosec](https://twitter.com/todayininfosec
 
 I thought it would be a great idea to frame this as a Twitter bot and a website. The Twitter bot to have tweets go out when a notable event happened on that day in the previous year, and a website for people to search events by month.
 
+
 So, now I have [@0xHistoryToday](https://twitter.com/0xHistoryToday) and [historyofcrypto.today](https://historyofcrypto.today/).
 
 ## Project Design
@@ -25,17 +26,9 @@ To start, I [setup a Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdNLO
 This Google Spreadsheet allows me to review the submissions and edit them with the same Google Form (by using AppsScript to get the form edit link) and to mark the entry as verified so it'll be picked up at the midnight-run routine to store the events in a Firebase database.
 
 ```js
-// Form URL
 var formURL = 'https://docs.google.com/forms/d/<form_id>/edit';
-// Sheet name used as destination of the form responses
 var sheetName = 'Entries';
-/*
- * Name of the column to be used to hold the response edit URLs 
- * It should match exactly the header of the related column, 
- * otherwise it will do nothing.
- */
 var columnName = 'Edit' ;
-// Responses starting row
 var startRow = 2;
 
 function getEditResponseUrls(){
@@ -69,6 +62,10 @@ I then trigger this code to run when the form is submitted using the AppsScripts
 This script will then place a "✏️" in column A for me to click and edit the entry - which I find easier to do than edit a bunch of text in the cell.
 
 After the events are reviewed in the Google Sheet, I have a serverless function that runs every midnight to pull the newly created events into the database, which then gets displayed on the website and consumed by the Twitter bot.
+
+If there is a historic day and the Twitter bot has something to publish, it will generate a nice sharable graphic for the tweet and give a summary of the event in the tweet text.
+
+https://twitter.com/0xHistoryToday/status/1630357248210870277
 
 
 # Future hopes & plans
