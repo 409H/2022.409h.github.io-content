@@ -81,7 +81,7 @@ In Quarter 2, we saw more smart contract exploits and brought attention to a lar
 ## **Story:** [Supercomputers hacked across Europe to mine cryptocurrency](https://www.zdnet.com/article/supercomputers-hacked-across-europe-to-mine-cryptocurrency/)
 **TL;DR:** Multiple supercomputers in the UK, Germany, and Switzerland were infected with cryptocurrency mining malware via compromised SSH logins to mine Monero — a privacy-focused cryptocurrency.
 
-### dForce / Lendf
+## dForce / Lendf
 The Lendf hack is interesting because the ERC777 standard that was exploited to commit a re-entry attack was also abused to take advantage of a Uniswap pool (imBTC) a couple of days prior. But dForce did not audit their system, even though they supported the same token. There’s a [good tweet thread from defiprime](https://twitter.com/defiprime/status/1251707688213340160) on this — with evidence to suggest the code was forked from Compound Finance, which even in an open-source world is another can of worms.
 
 ![](./images/2020-in-review-major-blockchain-crypto-security-incidents/4.png)
