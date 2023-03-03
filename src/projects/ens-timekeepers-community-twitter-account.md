@@ -6,7 +6,7 @@ meta_img: /images/ens-timekeepers-community-twitter-account/meta.png
 meta_desc: "You are an ENS Timekeeper? Then they have shared access to this Twitter account"
 type: project
 hidden: false
-project_url: "https://harrydenley/projects/ens-time-keepers"
+project_url: "https://v2.harrydenley.com/projects/ens-time-keepers"
 ---
 
 ![Banner](./images/ens-timekeepers-community-twitter-account/banner.png)

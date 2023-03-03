@@ -6,7 +6,7 @@ meta_img: /images/evm-sanctions/meta.png
 meta_desc: "A dashboard detailing transactions that sanction an address on the blockchain"
 type: project
 hidden: false
-project_url: "https://harrydenley.com/projects/evm-sanctions"
+project_url: "https://v2.harrydenley.com/projects/evm-sanctions"
 ---
 
 ![Banner](./images/evm-sanctions/banner.png)

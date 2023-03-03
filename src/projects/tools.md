@@ -13,5 +13,5 @@ Welcome to my toolbox, here I publish some of my tools that help me in my day-to
 
 * [Wei](/tools/wei) &mdash; A calculator to help you convert between ETH units.
 * [MyContracts](/tools/mycontracts) &mdash; A tool to list the contracts created by an account on various EVM chains.
-* [CertStream](/tools/certstream/) &mdash; A tool to analyse new SSL certificates in near-real time.
-* [SupplyChain](/tools/supplychain) &mdash; A tool to get an overlook on users within a supply-chain on NPM.
+* [CertStream](https://v2.harrydenley.com/tools/certstream/) &mdash; A tool to analyse new SSL certificates in near-real time.
+* [SupplyChain](https://v2.harrydenley.com/tools/supplychain) &mdash; A tool to get an overlook on users within a supply-chain on NPM.
