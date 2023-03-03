@@ -26,34 +26,34 @@ Let’s take a deeper look back at these events to see what happened and how we,
 
 The first quarter of 2020 started off with some good news and some bad news (minus the global pandemic and the following lockdowns). We had arrest confirmations and hardware hacking research, but we also had a rise in hacks and money loss.
 
-**Story:** [Cryptocurrency exchange Poloniex issues password reset warning](https://nakedsecurity.sophos.com/2020/01/03/cryptocurrency-exchange-poloniex-issues-password-reset-warning/)
+## **Story:** [Cryptocurrency exchange Poloniex issues password reset warning](https://nakedsecurity.sophos.com/2020/01/03/cryptocurrency-exchange-poloniex-issues-password-reset-warning/)
 **TL;DR:** Poloniex issued a PSA about their late-December 2019 email that announced some users were forced to reset their passwords after a tweet was made about a list going around containing email addresses and passwords.
 
-**Story:** [YouTubers are being hijacked for crypto scams](https://decrypt.co/15931/youtubers-are-being-hijacked-for-crypto-scams)
+## **Story:** [YouTubers are being hijacked for crypto scams](https://decrypt.co/15931/youtubers-are-being-hijacked-for-crypto-scams)
 **TL;DR:** Whilst not a new method of scamming, it became more popular for YouTube accounts to be hijacked and broadcast fake cryptocurrency giveaways using pre-recorded footage of cryptocurrency events with notable people in them.
 
-**Story:** [Upbit Upgrades ETH Wallet Security Following $50M Hack](https://www.financemagnates.com/cryptocurrency/news/upbit-upgrades-eth-wallet-security-following-50m-hack/)
+## **Story:** [Upbit Upgrades ETH Wallet Security Following $50M Hack](https://www.financemagnates.com/cryptocurrency/news/upbit-upgrades-eth-wallet-security-following-50m-hack/)
 **TL;DR:** A South Korean exchange publicly stated that in November 2019 their hot wallets were compromised, and a theft of 342,000 ETH (valued ~$50,000,000) took place
 
-**Story:** [Teen Charged Over $50M SIM-Swapping Scam on Blockchain Experts(https://www.infosecurity-magazine.com/news/teen-charged-over-50m-simswapping/)
+## **Story:** [Teen Charged Over $50M SIM-Swapping Scam on Blockchain Experts(https://www.infosecurity-magazine.com/news/teen-charged-over-50m-simswapping/)
 **TL;DR:** SIM-Swapping is a real threat in this industry, despite the assumption many people have that using SMS 2FA on their accounts makes them safe. A teenager exploited this fact, netting over $50M from various entities. The 18-year-old was arrested and is facing multiple criminal charges.
 
-**Story:** [Kraken Identifies Critical Flaw in Trezor Hardware Wallets](https://blog.kraken.com/post/3662/kraken-identifies-critical-flaw-in-trezor-hardware-wallets/)
+## **Story:** [Kraken Identifies Critical Flaw in Trezor Hardware Wallets](https://blog.kraken.com/post/3662/kraken-identifies-critical-flaw-in-trezor-hardware-wallets/)
 **TL;DR:** Kraken Exchange (Security Labs dept.) discovered and disclosed a physical attack vector that extracts seed phrases from most of the Trezor products.
 
-**Story:** [IOTA cryptocurrency shuts down entire network after wallet hack](https://www.zdnet.com/article/iota-cryptocurrency-shuts-down-entire-network-after-wallet-hack/)
+## **Story:** [IOTA cryptocurrency shuts down entire network after wallet hack](https://www.zdnet.com/article/iota-cryptocurrency-shuts-down-entire-network-after-wallet-hack/)
 **TL;DR:** IOTA shut down their network for a considerable amount of time as hackers exploited a vulnerability in the official IOTA wallet (Trinity) app to steal users’ funds.
 
-**Story:** [Risky Business: #DeFi and Ethereum’s Coming of Age Story](https://medium.com/mycrypto/risky-business-defi-and-ethereums-coming-of-age-story-4d99465ad102)
+## **Story:** [Risky Business: #DeFi and Ethereum’s Coming of Age Story](https://medium.com/mycrypto/risky-business-defi-and-ethereums-coming-of-age-story-4d99465ad102)
 **TL;DR:** MyCrypto founder Taylor Monahan transcribed the talk she gave at ETHDenver 2020 about DeFi and the risks involved with it. Taylor discusses potential pitfalls, previous attacks, what we learned and did not learn from past mistakes, and what we can do to improve the space.
 
-**Story:** [Are the BZx Flash Loan Attacks Signaling the End of DeFi?](https://cointelegraph.com/news/are-the-bzx-flash-loan-attacks-signaling-the-end-of-defi)
+## **Story:** [Are the BZx Flash Loan Attacks Signaling the End of DeFi?](https://cointelegraph.com/news/are-the-bzx-flash-loan-attacks-signaling-the-end-of-defi)
 **TL;DR:** A popular DeFi protocol suffered two attacks within a short amount of time via two flash loan exploits. The first resulted in a loss of 1,193 ETH and another 2,378 ETH was gone by the end of the second.
 
-**Story:** [Bitcoin Scams Continue to Exploit Covid-19 Chaos in UK](https://cointelegraph.com/news/bitcoin-scams-continue-to-exploit-covid-19-chaos-in-uk)
+## **Story:** [Bitcoin Scams Continue to Exploit Covid-19 Chaos in UK](https://cointelegraph.com/news/bitcoin-scams-continue-to-exploit-covid-19-chaos-in-uk)
 **TL;DR:** With the recent news of a global pandemic caused by Coronavirus (COVID-19), bad actors were creating campaigns to profit from the scare and uncertainty of the times by creating fake research groups from the CDC asking for Bitcoin donations.
 
-### BZx Again
+## BZx Again
 
 Although not a new method of attack, a second attack occurred on the BZx protocol within a handful of days via exploiting flash loans.
 
@@ -107,10 +107,10 @@ The Lendf hack is interesting because the ERC777 standard that was exploited to 
 ## **Story:** [Over $280M Drained in KuCoin Crypto Exchange Hack](https://www.coindesk.com/hackers-drain-kucoin-crypto-exchanges-funds)
 **TL;DR:** A popular Asian based exchange, KuCoin, had their hot wallets compromised and were alerted to large withdrawals of Bitcoin and Ethereum. KuCoin is investigating with international law enforcement, and the exchange committed to covering the entire loss of customer funds with their insurance fund.
 
-### Ledger’s Data Breach
+## Ledger’s Data Breach
 Ledger is one of the industry-leading hardware wallets with many customers in the space. In July 2020 they issued a statement about a data breach from their e-commerce platform and their marketing platform. They were alerted of a potential data breach from their bounty program on July 14, 2020. After an internal investigation, Ledger discovered the data breach occurred on June 25, 2020, affecting some of their customers. Twitter user [UnderTheBreach tweeted](https://twitter.com/UnderTheBreach/status/1264460979322138628) about a potential breach in May 2020.
 
-### KuCoin
+## KuCoin
 KuCoin had a security breach and their keys were compromised. Assets worth a total of ~$281,000,000 were stolen. What is noteworthy with this attack is that various projects came to the aid to assist fund recovery, including Ocean Protocol, who [forked their contracts](https://www.coindesk.com/ocean-protocol-hard-fork-freezes-funds-kucoin-hack) to remove the tokens issued to the attackers.
 
 ![](./images/2020-in-review-major-blockchain-crypto-security-incidents/5.png)
