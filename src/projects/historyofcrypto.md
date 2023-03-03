@@ -68,7 +68,7 @@ If there is a historic day and the Twitter bot has something to publish, it will
 https://twitter.com/0xHistoryToday/status/1630357248210870277
 
 
-# Future hopes & plans
+## Future hopes & plans
 
 By the end of 2023, I hope to have more than 250 events indexed in the application and a decent size following on Twitter for the project, hopefully growing the idea to help people remember the good and bad times we have lived through whilst being in crypto.
 

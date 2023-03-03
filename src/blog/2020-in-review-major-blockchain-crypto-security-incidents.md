@@ -63,22 +63,22 @@ https://twitter.com/dsearch3r/status/1228657292792549383
 
 In Quarter 2, we saw more smart contract exploits and brought attention to a large campaign publishing malicious browser extensions that mimicked known brands in the industry to gain access to user secrets.
 
-**Story:** [Hacker Exploits Flaw in Decentralized Bitcoin Exchange Bisq to Steal $250K](https://www.coindesk.com/hacker-exploits-flaw-in-decentralized-exchange-bisq-to-steal-250k)
+## **Story:** [Hacker Exploits Flaw in Decentralized Bitcoin Exchange Bisq to Steal $250K](https://www.coindesk.com/hacker-exploits-flaw-in-decentralized-exchange-bisq-to-steal-250k)
 **TL;DR:** Bisq took an “unprecedented” step and halted trading after noticing an attacker was exploiting the software to steal funds from users. It was reported that the attackers stole 3BTC and 4000XMR.
 
-**Story:** [Discovering Fake Browser Extensions That Target Users of Ledger, Trezor, MEW, Metamask, and More](/discovering-fake-browser-extensions-that-target-users-of-ledger-trezor-mew-metamask-and-more)
+## **Story:** [Discovering Fake Browser Extensions That Target Users of Ledger, Trezor, MEW, Metamask, and More](/discovering-fake-browser-extensions-that-target-users-of-ledger-trezor-mew-metamask-and-more)
 **TL;DR:** MyCrypto and PhishFort published a research piece on grim campaigns ramping up to target cryptocurrency users by using Google Ads to push malicious published browser extensions that mimicked known brands.
 
-**Story:** [Etherscan Launches “ETH Protect” to Identify and Flag Tainted ETH Addresses](https://btcmanager.com/etherscan-eth-protect-identify-flag-tainted-eth-addresses/)
+## **Story:** [Etherscan Launches “ETH Protect” to Identify and Flag Tainted ETH Addresses](https://btcmanager.com/etherscan-eth-protect-identify-flag-tainted-eth-addresses/)
 **TL;DR:** One of the most used blockchain explorers — Etherscan — launched a product to give users more information about an address (taint analysis) and quickly show if they have received cryptocurrency from a known bad address.
 
-**Story:** [dForce Drained of $25 Million in DeFi Smart Contract Exploit](https://cryptobriefing.com/dforce-drained-25-million-defi-smart-contract-exploit/)
+## **Story:** [dForce Drained of $25 Million in DeFi Smart Contract Exploit](https://cryptobriefing.com/dforce-drained-25-million-defi-smart-contract-exploit/)
 **TL;DR:** Lending protocol dForce, which is alleged to be a fork of Compound with modified code, was attacked with an offensive that was similar to one that happened to a Uniswap pool. The attack took advantage of a standard on the imBTC contract.
 
-**Story:** [‘Evil genius’ teens accused of stealing millions in cryptocurrency](https://news.sky.com/story/evil-genius-teens-accused-of-stealing-millions-in-cryptocurrency-11985185)
+## **Story:** [‘Evil genius’ teens accused of stealing millions in cryptocurrency](https://news.sky.com/story/evil-genius-teens-accused-of-stealing-millions-in-cryptocurrency-11985185)
 **TL;DR:** Information about a high profile SIM swap complaint filed by Michael Terpin was released. At the time of the attack, one of the main accused bad actors was only 15 years old when he allegedly SIM swapped multiple people and stole over $23M.
 
-**Story:** [Supercomputers hacked across Europe to mine cryptocurrency](https://www.zdnet.com/article/supercomputers-hacked-across-europe-to-mine-cryptocurrency/)
+## **Story:** [Supercomputers hacked across Europe to mine cryptocurrency](https://www.zdnet.com/article/supercomputers-hacked-across-europe-to-mine-cryptocurrency/)
 **TL;DR:** Multiple supercomputers in the UK, Germany, and Switzerland were infected with cryptocurrency mining malware via compromised SSH logins to mine Monero — a privacy-focused cryptocurrency.
 
 ### dForce / Lendf
@@ -86,25 +86,25 @@ The Lendf hack is interesting because the ERC777 standard that was exploited to 
 
 ![](./images/2020-in-review-major-blockchain-crypto-security-incidents/4.png)
 
-**Story:** [Intercepting and Saving $5,000 Worth of Phished Crypto](/intercepting-and-saving-5-000-worth-of-phished-crypto)
+## **Story:** [Intercepting and Saving $5,000 Worth of Phished Crypto](/intercepting-and-saving-5-000-worth-of-phished-crypto)
 **TL;DR:** When I'm looking at phishing kits, I found an open door in an active campaign, and monitored it for secrets being phished. In a rare turn of events, we managed to intercept cryptocurrency assets that were taken from victims. We swept the assets before the bad actors were able to and returned the funds to the verified owners.
 
-**Story:** [The #TwitterHack Postmortem](/the-twitterhack-postmortem)
+## **Story:** [The #TwitterHack Postmortem](/the-twitterhack-postmortem)
 **TL;DR:** On July 15, 2020, a massive account takeover campaign occurred on the Twitter platform, which included using verified political accounts to promote a “trust-trading”/advanced-fee Bitcoin scam. Overall, “only” about $150k was stolen, which is small relative to the wide exposure that the bad actors had from the accounts they gained access to.
 
-**Story:** [Working With Binance to Return $10,000 of Stolen Crypto to a Victim](/working-with-binance-to-return-10-000-of-stolen-crypto-to-a-victim)
+## **Story:** [Working With Binance to Return $10,000 of Stolen Crypto to a Victim](/working-with-binance-to-return-10-000-of-stolen-crypto-to-a-victim)
 **TL;DR:** When I was looking at more phishing campaigns and found another open door to a server that the bad actors were using. We, again, sat in the middle of their phishing frontend and the bad actors’ communication channels to whitehat sweep the phished assets away from the bad actors’ control.
 
-**Story:** [The 10 Best Things You Can Do to Not Lose Your Crypto](https://medium.com/mycrypto/the-10-best-things-you-can-do-to-not-lose-your-crypto-dba4f5c05c7)
+## **Story:** [The 10 Best Things You Can Do to Not Lose Your Crypto](https://medium.com/mycrypto/the-10-best-things-you-can-do-to-not-lose-your-crypto-dba4f5c05c7)
 **TL;DR:** MyCrypto published a brief ten-step article on best practices with clear action items on how to secure your cryptocurrency assets and associated accounts. We used our extensive knowledge of how cryptocurrency is stolen and composed an actionable list.
 
-**Story:** [Hackers Nab $16 Million In BTC Through Bitcoin Wallet Exploit](https://markets.businessinsider.com/currencies/news/hackers-nab-$16-million-in-btc-through-bitcoin-wallet-exploit-9247287)
+## **Story:** [Hackers Nab $16 Million In BTC Through Bitcoin Wallet Exploit](https://markets.businessinsider.com/currencies/news/hackers-nab-$16-million-in-btc-through-bitcoin-wallet-exploit-9247287)
 **TL;DR:** A user did not install critical security updates on their Electrum wallet and fell victim to an [[old method of](https://blog.malwarebytes.com/cybercrime/2019/04/electrum-bitcoin-wallets-under-siege/)] attack, resulting in a loss of 1,400 BTC. The user was tricked into connecting to a malicious Electrum server, which allowed rich text in an error popup. The returned error prompted the user to update their Electrum software, but it [linked them to download malware](https://twitter.com/_benkaufman/status/1299971327231692800).
 
-**Story:** [Escape the Dark Forest](https://samczsun.com/escaping-the-dark-forest/)
+## **Story:** [Escape the Dark Forest](https://samczsun.com/escaping-the-dark-forest/)
 **TL;DR:** Samczsun (and crew) successfully exploited a vulnerable contract for $9,600,000 in a whitehat campaign. This story is especially interesting because Samczsun explains how they beat frontrunner bots by privately giving the signed transaction to a miner directly instead of broadcasting to the txpool.
 
-**Story:** [Over $280M Drained in KuCoin Crypto Exchange Hack](https://www.coindesk.com/hackers-drain-kucoin-crypto-exchanges-funds)
+## **Story:** [Over $280M Drained in KuCoin Crypto Exchange Hack](https://www.coindesk.com/hackers-drain-kucoin-crypto-exchanges-funds)
 **TL;DR:** A popular Asian based exchange, KuCoin, had their hot wallets compromised and were alerted to large withdrawals of Bitcoin and Ethereum. KuCoin is investigating with international law enforcement, and the exchange committed to covering the entire loss of customer funds with their insurance fund.
 
 ### Ledger’s Data Breach
@@ -115,19 +115,19 @@ KuCoin had a security breach and their keys were compromised. Assets worth a tot
 
 ![](./images/2020-in-review-major-blockchain-crypto-security-incidents/5.png)
 
-**Story:** [Cryptocurrency exchange Liquid confirms hack](https://techcrunch.com/2020/11/18/cryptocurrency-exchange-liquid-confirms-hack/)
+## **Story:** [Cryptocurrency exchange Liquid confirms hack](https://techcrunch.com/2020/11/18/cryptocurrency-exchange-liquid-confirms-hack/)
 **TL;DR:** Liquid confirmed that their domain and email accounts had been compromised. The exchange believes the hackers may have had access to personal information including email addresses, names, shipping addresses, and encrypted passwords.
 
-**Story:** [Hackers used GoDaddy Employees to Hack Crypto Sites: Liquid and NiceHash](https://www.thecoinrepublic.com/2020/11/23/hackers-used-godaddy-employees-to-hack-crypto-sites-liquid-and-nicehash/)
+## **Story:** [Hackers used GoDaddy Employees to Hack Crypto Sites: Liquid and NiceHash](https://www.thecoinrepublic.com/2020/11/23/hackers-used-godaddy-employees-to-hack-crypto-sites-liquid-and-nicehash/)
 **TL;DR:** A report was published that said there is solid proof that NiceHash and Liquid were compromised through their service provider — GoDaddy.
 
-**Story:** [$10.8M Stolen, Developers Implicated in Alleged Smart Contract ‘Rug Pull’](https://www.coindesk.com/compounder-developers-implicated-alleged-smart-contract-rug-pull)
+## **Story:** [$10.8M Stolen, Developers Implicated in Alleged Smart Contract ‘Rug Pull’](https://www.coindesk.com/compounder-developers-implicated-alleged-smart-contract-rug-pull)
 **TL;DR:** A smart contract of a yield farming protocol (clone of Harvest and YearnFinance) had a hidden backdoor in it that allowed the contract to be drained of wBTC, ETH, DAI.
 
-**Story:** [Ledger Adds Bitcoin Bounty and New Data Security After Hack](https://www.coindesk.com/ledger-bitcoin-bounty-new-data-security-after-hack)
+## **Story:** [Ledger Adds Bitcoin Bounty and New Data Security After Hack](https://www.coindesk.com/ledger-bitcoin-bounty-new-data-security-after-hack)
 **TL;DR:** Ledger alleged/ that the recent data dumps on their customers came from a rogue Shopify agent. Ledger’s new CISO, Matt Johnson, set up new procedures and policies to prevent a data breach in the future and announced a 10 BTC bounty for any information that leads to the hacker’s arrest.
 
-**Story:** [Crypto Exchange EXMO Says Hackers Have Stolen 5% of Total Assets](https://www.coindesk.com/crypto-exchange-exmo-says-hackers-have-stolen-5-of-total-assets)
+## **Story:** [Crypto Exchange EXMO Says Hackers Have Stolen 5% of Total Assets](https://www.coindesk.com/crypto-exchange-exmo-says-hackers-have-stolen-5-of-total-assets)
 **TL;DR:** EXMO detected suspicious behavior in their hot wallets and suspended withdrawals to investigate. It was concluded that their cold storage was unaffected but five percent of their hot wallets were stolen.
 
 ---
