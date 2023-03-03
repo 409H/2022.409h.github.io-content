@@ -1,5 +1,5 @@
 ---
-slug: "faking-twitter-unfurling/"
+slug: "faking-twitter-unfurling"
 title: "Spoofing Twitter unfurling to phish you"
 date: "2021-11-03 00:00:00 +0100"
 type: blog
